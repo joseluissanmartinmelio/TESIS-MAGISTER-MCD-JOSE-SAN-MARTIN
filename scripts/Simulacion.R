@@ -22,7 +22,7 @@ simular_celda <- function(nombre_esc, b_val, pi_val, rho_val, sd_ci_val,
       ta  <- numeric(T)
       ltp <- numeric(T)
       
-      # Nivel base de TA: en shift estructural este valor evoluciona
+
       nivel_base_i <- MEDIA_TA + ci_ta[i]
       
       ta[1]  <- pmin(pmax(rnorm(1, nivel_base_i, SD_TA_INIT), 0.001), 0.999)
