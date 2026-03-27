@@ -17,7 +17,6 @@ def ejecutar_extraccion_panel(lista_variables, lista_anios):
         page = browser.new_page()
 
         for variable_full in lista_variables:
-            # --- MODIFICACIÓN: Extraer solo el ID ---
             # Si el usuario ingresa "618 - GASTO TOTAL", variable_id será "618"
             variable_id = variable_full.split("-")[0].strip()
             
@@ -111,7 +110,7 @@ def ejecutar_extraccion_panel(lista_variables, lista_anios):
                 print(f"Archivo generado: {nombre_archivo} ({len(datos_panel)} registros)")
         
         browser.close()
-        print("\n=== Proceso completado ===")
+        print("\nProceso finalizado")
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
