@@ -8,13 +8,15 @@ setwd(here::here())
 
 lapply(c("RPostgreSQL", "psych", "DBI", "tidyverse", "mice", "naniar", "VIM", "lmtest", "sandwich"), library, character.only = T)
 
+# Por motivos de confidencialidad por favor utilizar los datos en "data/panel_real_final.xlsx" para usar el script
+
 con <- dbConnect(
   PostgreSQL(),
-  host = "aws-1-sa-east-1.pooler.supabase.com",
-  port = 5432,
-  dbname = "postgres", 
-  user = "postgres.ykazupvkcyhewceciphp",
-  password = "Iwtfisztwa1."
+  host = "xxxxxxx",
+  port = xxxxxxx,
+  dbname = "xxxxxxx", 
+  user = "xxxxxxx",
+  password = "xxxxxxx"
 )
 
 

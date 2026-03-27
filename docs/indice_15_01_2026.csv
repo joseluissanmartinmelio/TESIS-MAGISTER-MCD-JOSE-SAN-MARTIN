@@ -1,0 +1,490 @@
+﻿Categoría,ID,Variable,Full_Format
+A.1. PRESUPUESTO INICIAL Y VIGENTE MUNICIPAL (M$),4211,BPIGM - Presupuesto Inicial Gastos Municipales,4211 - BPIGM - Presupuesto Inicial Gastos Municipales
+A.1. PRESUPUESTO INICIAL Y VIGENTE MUNICIPAL (M$),4441,BPISICMUN - Presupuesto Inicial Saldo Inicial de Caja sector Municipal,4441 - BPISICMUN - Presupuesto Inicial Saldo Inicial de Caja sector Municipal
+A.1. PRESUPUESTO INICIAL Y VIGENTE MUNICIPAL (M$),4210,BPIIM - Presupuesto Inicial Sector Municipal,4210 - BPIIM - Presupuesto Inicial Sector Municipal
+A.1. PRESUPUESTO INICIAL Y VIGENTE MUNICIPAL (M$),4213,BPVGM - Presupuesto Vigente Gastos Municpiales,4213 - BPVGM - Presupuesto Vigente Gastos Municpiales
+A.1. PRESUPUESTO INICIAL Y VIGENTE MUNICIPAL (M$),4226,BPVMSALINI - Presupuesto Vigente Saldo Inicial de Caja Sector Municipal,4226 - BPVMSALINI - Presupuesto Vigente Saldo Inicial de Caja Sector Municipal
+A.1. PRESUPUESTO INICIAL Y VIGENTE MUNICIPAL (M$),4212,BPVIM - Presupuesto Vigente Sector Municipal,4212 - BPVIM - Presupuesto Vigente Sector Municipal
+A. INGRESOS MUNICIPALES (M$),3752,IADM83 - Casinos de Juegos Ley Nº19.995.,3752 - IADM83 - Casinos de Juegos Ley Nº19.995.
+A. INGRESOS MUNICIPALES (M$),3954,IADM97 - Derechos de Aseo,3954 - IADM97 - Derechos de Aseo
+A. INGRESOS MUNICIPALES (M$),3955,IADM98 - Derechos de Aseo Cobro Directo y de Patentes Comerciales,3955 - IADM98 - Derechos de Aseo Cobro Directo y de Patentes Comerciales
+A. INGRESOS MUNICIPALES (M$),3956,IADM99 - Derechos de Aseo por Impuesto Territorial,3956 - IADM99 - Derechos de Aseo por Impuesto Territorial
+A. INGRESOS MUNICIPALES (M$),1092,IADM10 - Disponibilidad Presupuestaria Municipal por Habitante (M$),1092 - IADM10 - Disponibilidad Presupuestaria Municipal por Habitante (M$)
+A. INGRESOS MUNICIPALES (M$),4251,IADM140 - Impuesto Territorial de Beneficio Municipal (Art. 37 DL 3063),4251 - IADM140 - Impuesto Territorial de Beneficio Municipal (Art. 37 DL 3063)
+A. INGRESOS MUNICIPALES (M$),1110,IADM01 - Ingresos Municipales (Ingreso Total Percibido),1110 - IADM01 - Ingresos Municipales (Ingreso Total Percibido)
+A. INGRESOS MUNICIPALES (M$),4245,IADM999 - Ingresos Municipales (Ingreso Total Percibido) sin Saldo Inicial de Caja,4245 - IADM999 - Ingresos Municipales (Ingreso Total Percibido) sin Saldo Inicial de Caja
+A. INGRESOS MUNICIPALES (M$),880,IADM40 - Ingresos por Fondo Común Municipal,880 - IADM40 - Ingresos por Fondo Común Municipal
+A. INGRESOS MUNICIPALES (M$),1226,IADM44 - Ingresos por Impuestos,1226 - IADM44 - Ingresos por Impuestos
+A. INGRESOS MUNICIPALES (M$),4173,IADM121 - Ingresos por Patentes Municipales de Beneficio Municipal,4173 - IADM121 - Ingresos por Patentes Municipales de Beneficio Municipal
+A. INGRESOS MUNICIPALES (M$),4174,IADM122 - Ingresos por Permisos de Circulación de Beneficio Municipal,4174 - IADM122 - Ingresos por Permisos de Circulación de Beneficio Municipal
+A. INGRESOS MUNICIPALES (M$),883,IADM43 - Ingresos por Transferencias,883 - IADM43 - Ingresos por Transferencias
+A. INGRESOS MUNICIPALES (M$),4325,"IADM43.1 - Ingresos por Transferencias menos Casino Ley N° 19.995, Patentes Acuícolas y Patentes Mineras","4325 - IADM43.1 - Ingresos por Transferencias menos Casino Ley N° 19.995, Patentes Acuícolas y Patentes Mineras"
+A. INGRESOS MUNICIPALES (M$),882,IADM42 - Ingresos Propios (IPP y FCM),882 - IADM42 - Ingresos Propios (IPP y FCM)
+A. INGRESOS MUNICIPALES (M$),879,IADM41 - Ingresos Propios Permanentes (IPP),879 - IADM41 - Ingresos Propios Permanentes (IPP)
+A. INGRESOS MUNICIPALES (M$),1262,IADM74 - Ingresos Propios Permanentes per Cápita (IPPP),1262 - IADM74 - Ingresos Propios Permanentes per Cápita (IPPP)
+A. INGRESOS MUNICIPALES (M$),890,"IADM49 - Ingresos Propios, según criterio de Contraloría General de la República","890 - IADM49 - Ingresos Propios, según criterio de Contraloría General de la República"
+A. INGRESOS MUNICIPALES (M$),887,"IADM46 - Ingresos Totales, descontados los Ingresos por Transferencias","887 - IADM46 - Ingresos Totales, descontados los Ingresos por Transferencias"
+A. INGRESOS MUNICIPALES (M$),1311,IADM96 - Monto Patentes Municipales Pagadas,1311 - IADM96 - Monto Patentes Municipales Pagadas
+A. INGRESOS MUNICIPALES (M$),3753,IADM84 - Patentes Acuícolas Ley Nº20.033 Art. 8.,3753 - IADM84 - Patentes Acuícolas Ley Nº20.033 Art. 8.
+A. INGRESOS MUNICIPALES (M$),3754,IADM82 - Patentes Mineras Ley Nº19.143.,3754 - IADM82 - Patentes Mineras Ley Nº19.143.
+B. INGRESOS MUNICIPALES (%),1272,IADM75 - Dependencia del Fondo Común Municipal sobre los Ingresos Propios,1272 - IADM75 - Dependencia del Fondo Común Municipal sobre los Ingresos Propios
+B. INGRESOS MUNICIPALES (%),1088,IADM04 - Participación de Ingresos por Transferencias en el Ingreso Total,1088 - IADM04 - Participación de Ingresos por Transferencias en el Ingreso Total
+B. INGRESOS MUNICIPALES (%),1086,IADM02 - Participación de Ingresos Propios Permanentes (IPP) en el Ingreso Total,1086 - IADM02 - Participación de Ingresos Propios Permanentes (IPP) en el Ingreso Total
+B. INGRESOS MUNICIPALES (%),1089,IADM06 - Participación de Ingresos Propios Permanentes sobre el Ingreso Total (descontadas las transferencias),1089 - IADM06 - Participación de Ingresos Propios Permanentes sobre el Ingreso Total (descontadas las transferencias)
+B. INGRESOS MUNICIPALES (%),1090,IADM07 - Participación del FCM en el Ingreso Total (descontadas las transferencias),1090 - IADM07 - Participación del FCM en el Ingreso Total (descontadas las transferencias)
+B. INGRESOS MUNICIPALES (%),1087,IADM03 - Participación del Fondo Común Municipal en el Ingreso Total,1087 - IADM03 - Participación del Fondo Común Municipal en el Ingreso Total
+B. INGRESOS MUNICIPALES (%),1091,IADM09 - Participación de Transferencias a Educación y Salud en el Ingreso Total (descontadas las transferencias),1091 - IADM09 - Participación de Transferencias a Educación y Salud en el Ingreso Total (descontadas las transferencias)
+C. GASTOS MUNICIPALES (M$),894,IADM51 - Gastos Corrientes,894 - IADM51 - Gastos Corrientes
+C. GASTOS MUNICIPALES (M$),3770,IADM85 - Gastos en Bienes y Servicios de Consumo (Subtítulo 22),3770 - IADM85 - Gastos en Bienes y Servicios de Consumo (Subtítulo 22)
+C. GASTOS MUNICIPALES (M$),1093,IADM11 - Gastos Municipales (Gastos Total Devengado),1093 - IADM11 - Gastos Municipales (Gastos Total Devengado)
+C. GASTOS MUNICIPALES (M$),4164,BGMAAMUN - Gastos Municipales Área de Gestión: Actividades Municipales,4164 - BGMAAMUN - Gastos Municipales Área de Gestión: Actividades Municipales
+C. GASTOS MUNICIPALES (M$),4162,BGMAGINT - Gastos Municipales Área de Gestión: Interna,4162 - BGMAGINT - Gastos Municipales Área de Gestión: Interna
+C. GASTOS MUNICIPALES (M$),4167,BGMAPCUL - Gastos Municipales Área de Gestión: Programas Culturales,4167 - BGMAPCUL - Gastos Municipales Área de Gestión: Programas Culturales
+C. GASTOS MUNICIPALES (M$),4166,BGMAPREC - Gastos Municipales Área de Gestión: Programas Recreacionales,4166 - BGMAPREC - Gastos Municipales Área de Gestión: Programas Recreacionales
+C. GASTOS MUNICIPALES (M$),4165,BGMAPSOC - Gastos Municipales Área de Gestión: Programas Sociales,4165 - BGMAPSOC - Gastos Municipales Área de Gestión: Programas Sociales
+C. GASTOS MUNICIPALES (M$),4163,BGMASCOM - Gastos Municipales Área de Gestión: Servicios Comunitarios,4163 - BGMASCOM - Gastos Municipales Área de Gestión: Servicios Comunitarios
+C. GASTOS MUNICIPALES (M$),4472,IADM72.1 - Gastos por Comisiones y Representaciones del Municipio,4472 - IADM72.1 - Gastos por Comisiones y Representaciones del Municipio
+C. GASTOS MUNICIPALES (M$),910,IADM39 - Monto Transferido al Fondo Común Municipal,910 - IADM39 - Monto Transferido al Fondo Común Municipal
+C. GASTOS MUNICIPALES (M$),1255,IADM72 - Viáticos Personal de Planta y Contrata,1255 - IADM72 - Viáticos Personal de Planta y Contrata
+D. GASTOS MUNICIPALES (%),1094,IADM12 - Participación de Gastos Corrientes en el Gasto Total,1094 - IADM12 - Participación de Gastos Corrientes en el Gasto Total
+D. GASTOS MUNICIPALES (%),3771,IADM86 - Participación de Gastos en Bienes y Servicios de Consumo sobre los Ingresos Propios (desde 2008),3771 - IADM86 - Participación de Gastos en Bienes y Servicios de Consumo sobre los Ingresos Propios (desde 2008)
+D. GASTOS MUNICIPALES (%),4240,IADM133 - Participación del Área de Actividades Municipales en el Gasto Total (Devengado),4240 - IADM133 - Participación del Área de Actividades Municipales en el Gasto Total (Devengado)
+D. GASTOS MUNICIPALES (%),4237,IADM130 - Participación del Área de Gestión Interna en el Gasto Total (Devengado),4237 - IADM130 - Participación del Área de Gestión Interna en el Gasto Total (Devengado)
+D. GASTOS MUNICIPALES (%),4241,IADM134 - Participación del Área de Programas Culturales en el Gasto Total (Devengado),4241 - IADM134 - Participación del Área de Programas Culturales en el Gasto Total (Devengado)
+D. GASTOS MUNICIPALES (%),4242,IADM135 - Participación del Área de Programas Recreacionales en el Gasto Total (Devengado),4242 - IADM135 - Participación del Área de Programas Recreacionales en el Gasto Total (Devengado)
+D. GASTOS MUNICIPALES (%),4239,IADM132 - Participación del Área de Programas Sociales en el Gasto Total (Devengado),4239 - IADM132 - Participación del Área de Programas Sociales en el Gasto Total (Devengado)
+D. GASTOS MUNICIPALES (%),4238,IADM131 - Participación del Área de Servicios Comunitarios en el Gasto Total (Devengado),4238 - IADM131 - Participación del Área de Servicios Comunitarios en el Gasto Total (Devengado)
+D. GASTOS MUNICIPALES (%),1109,IADM30 - Relación entre Aportes y Recepción del Fondo Común Municipal (FCM),1109 - IADM30 - Relación entre Aportes y Recepción del Fondo Común Municipal (FCM)
+E. GASTOS EN PERSONAL,4439,IADM232 - Disponibilidad Presupuestaria (42%) de Gastos en Personal (según criterio presupuestario IPP),4439 - IADM232 - Disponibilidad Presupuestaria (42%) de Gastos en Personal (según criterio presupuestario IPP)
+E. GASTOS EN PERSONAL,1306,IADM79 - Gasto Personal a Contrata (cuenta presupuestaria 215.21.02),1306 - IADM79 - Gasto Personal a Contrata (cuenta presupuestaria 215.21.02)
+E. GASTOS EN PERSONAL,4421,IADM80 - Gasto Personal a Honorarios (cuenta presupuestaria 215.21.03),4421 - IADM80 - Gasto Personal a Honorarios (cuenta presupuestaria 215.21.03)
+E. GASTOS EN PERSONAL,1307,IADM80.1 - Gasto Personal a Honorarios Suma Alzada y Asimilados a Grado (sólo 21.03.001 y 21.03.002),1307 - IADM80.1 - Gasto Personal a Honorarios Suma Alzada y Asimilados a Grado (sólo 21.03.001 y 21.03.002)
+E. GASTOS EN PERSONAL,4422,IADM80.2 - Gasto Personal Código del Trabajo (cuenta presupuestaria 21.03.004),4422 - IADM80.2 - Gasto Personal Código del Trabajo (cuenta presupuestaria 21.03.004)
+E. GASTOS EN PERSONAL,1305,IADM78 - Gasto Personal Planta (cuenta presupuestaria 215.21.01),1305 - IADM78 - Gasto Personal Planta (cuenta presupuestaria 215.21.01)
+E. GASTOS EN PERSONAL,3964,IADM111 - Gasto Personal por Prestaciones de Servicios en Programas Comunitarios (cuenta presupuestaria 215.21.04.004),3964 - IADM111 - Gasto Personal por Prestaciones de Servicios en Programas Comunitarios (cuenta presupuestaria 215.21.04.004)
+E. GASTOS EN PERSONAL,1227,"IADM58 - Gastos en Personal Municipal (excluye Dieta, Consejo y Prestaciones de Servicios en Prog. Comunitarios)","1227 - IADM58 - Gastos en Personal Municipal (excluye Dieta, Consejo y Prestaciones de Servicios en Prog. Comunitarios)"
+E. GASTOS EN PERSONAL,3975,IADM61 - Gastos en Personal Municipal (Subtítulo 21),3975 - IADM61 - Gastos en Personal Municipal (Subtítulo 21)
+E. GASTOS EN PERSONAL,4340,IADM62 - Límite del 20% Gasto Personal a Contrata válido hasta año 2016,4340 - IADM62 - Límite del 20% Gasto Personal a Contrata válido hasta año 2016
+E. GASTOS EN PERSONAL,4042,"IADM621 - Límite del 40% Gasto Personal a Contrata, Ley 20.922 (desde 2016)","4042 - IADM621 - Límite del 40% Gasto Personal a Contrata, Ley 20.922 (desde 2016)"
+E. GASTOS EN PERSONAL,1106,IADM32 - Participación de Gastos en Capacitación sobre el Gasto Total en Personal,1106 - IADM32 - Participación de Gastos en Capacitación sobre el Gasto Total en Personal
+E. GASTOS EN PERSONAL,1104,IADM24 - Participación de Gastos en Capacitación sobre Ingresos Totales (descontadas las transferencias),1104 - IADM24 - Participación de Gastos en Capacitación sobre Ingresos Totales (descontadas las transferencias)
+E. GASTOS EN PERSONAL,4341,IADM144 - Participación de Gastos en Personal Respecto del Umbral Legal (42%) según Ley 20.922 vigente desde año 2016,4341 - IADM144 - Participación de Gastos en Personal Respecto del Umbral Legal (42%) según Ley 20.922 vigente desde año 2016
+E. GASTOS EN PERSONAL,1098,IADM17 - Participación Gasto en Personal en Gastos Corrientes,1098 - IADM17 - Participación Gasto en Personal en Gastos Corrientes
+E. GASTOS EN PERSONAL,1149,IADM37 - Participación Gasto en Personal sobre los Ingresos Propios (límite del 35%) criterio CGR válido hasta el 2016,1149 - IADM37 - Participación Gasto en Personal sobre los Ingresos Propios (límite del 35%) criterio CGR válido hasta el 2016
+E. GASTOS EN PERSONAL,1083,IADM23 - Umbral Legal (35%) de Gastos en Personal (en miles de pesos) criterio CGR valido hasta año 2016,1083 - IADM23 - Umbral Legal (35%) de Gastos en Personal (en miles de pesos) criterio CGR valido hasta año 2016
+E. GASTOS EN PERSONAL,4339,IADM231 - Umbral Legal (42%) de Gastos en Personal (en miles de pesos) Ley 20.922 (vigente desde año 2016),4339 - IADM231 - Umbral Legal (42%) de Gastos en Personal (en miles de pesos) Ley 20.922 (vigente desde año 2016)
+F. TRANSFERENCIAS E INVERSION,1256,"IADM73 - Asignación Concejales (Art. 76, Ley 18.695)","1256 - IADM73 - Asignación Concejales (Art. 76, Ley 18.695)"
+F. TRANSFERENCIAS E INVERSION,3784,IADM88 - Asistencia Social,3784 - IADM88 - Asistencia Social
+F. TRANSFERENCIAS E INVERSION,4204,RFNDRMUN - Fondo Nacional de Desarrollo Regional Municipal,4204 - RFNDRMUN - Fondo Nacional de Desarrollo Regional Municipal
+F. TRANSFERENCIAS E INVERSION,1103,IADM22 - Inversión Municipal,1103 - IADM22 - Inversión Municipal
+F. TRANSFERENCIAS E INVERSION,1097,IADM16 - Participación de Inversión con Recursos Externos sobre la Inversión Total,1097 - IADM16 - Participación de Inversión con Recursos Externos sobre la Inversión Total
+F. TRANSFERENCIAS E INVERSION,1096,IADM15 - Participación de Inversión con Recursos Propios sobre Inversión Total,1096 - IADM15 - Participación de Inversión con Recursos Propios sobre Inversión Total
+F. TRANSFERENCIAS E INVERSION,1095,IADM14 - Participación de la Inversión en el Gasto Total,1095 - IADM14 - Participación de la Inversión en el Gasto Total
+F. TRANSFERENCIAS E INVERSION,1302,IADM76 - Transferencias a Educación,1302 - IADM76 - Transferencias a Educación
+F. TRANSFERENCIAS E INVERSION,1301,IADM77 - Transferencias a Salud (incluye Aporte MINSAL),1301 - IADM77 - Transferencias a Salud (incluye Aporte MINSAL)
+F. TRANSFERENCIAS E INVERSION,1229,IADM60 - Transferencias Corrientes,1229 - IADM60 - Transferencias Corrientes
+F. TRANSFERENCIAS E INVERSION,3783,IADM87 - Transferencias Corrientes a Organizaciones Comunitarias,3783 - IADM87 - Transferencias Corrientes a Organizaciones Comunitarias
+G. SERVICIOS BASICOS Y GENERALES,3922,IADM91 - Consumo de Agua,3922 - IADM91 - Consumo de Agua
+G. SERVICIOS BASICOS Y GENERALES,3910,BGAGI - Consumo de Agua Dependencias Municipales.,3910 - BGAGI - Consumo de Agua Dependencias Municipales.
+G. SERVICIOS BASICOS Y GENERALES,3911,BGASC - Consumo de Agua en Servicios Comunitarios.,3911 - BGASC - Consumo de Agua en Servicios Comunitarios.
+G. SERVICIOS BASICOS Y GENERALES,3921,IADM90 - Consumo de Electricidad,3921 - IADM90 - Consumo de Electricidad
+G. SERVICIOS BASICOS Y GENERALES,3913,BGEGI - Consumo de Electricidad Dependencias Municipales.,3913 - BGEGI - Consumo de Electricidad Dependencias Municipales.
+G. SERVICIOS BASICOS Y GENERALES,3912,BGESC - Consumo de Electricidad en Servicios Comunitarios.,3912 - BGESC - Consumo de Electricidad en Servicios Comunitarios.
+G. SERVICIOS BASICOS Y GENERALES,3923,"IADM92 - Servicios de Aseo, Recolección de Basura y Vertederos","3923 - IADM92 - Servicios de Aseo, Recolección de Basura y Vertederos"
+G. SERVICIOS BASICOS Y GENERALES,3915,BSASC - Servicios de Aseo y Recolección de Basura a la Comunidad.,3915 - BSASC - Servicios de Aseo y Recolección de Basura a la Comunidad.
+G. SERVICIOS BASICOS Y GENERALES,3914,BSAGI - Servicios de Aseo y Recolección de Basura Dependencias Municipales.,3914 - BSAGI - Servicios de Aseo y Recolección de Basura Dependencias Municipales.
+G. SERVICIOS BASICOS Y GENERALES,3925,IADM93 - Servicios de Mantención de Alumbrado Público,3925 - IADM93 - Servicios de Mantención de Alumbrado Público
+G. SERVICIOS BASICOS Y GENERALES,3917,BSMJSC - Servicios de Mantención de Jardines de la Comunidad.,3917 - BSMJSC - Servicios de Mantención de Jardines de la Comunidad.
+G. SERVICIOS BASICOS Y GENERALES,3916,BSMJGI - Servicios de Mantención de Jardines Dependencias Municipales.,3916 - BSMJGI - Servicios de Mantención de Jardines Dependencias Municipales.
+G. SERVICIOS BASICOS Y GENERALES,4040,IADM120 - Servicios de Mantención de Jardines Total Gastos devengados,4040 - IADM120 - Servicios de Mantención de Jardines Total Gastos devengados
+G. SERVICIOS BASICOS Y GENERALES,3927,IADM95 - Servicios de Mantención de Señalización de Tránsito,3927 - IADM95 - Servicios de Mantención de Señalización de Tránsito
+G. SERVICIOS BASICOS Y GENERALES,3926,IADM94 - Servicios de Mantención de Semáforos,3926 - IADM94 - Servicios de Mantención de Semáforos
+I. TRANSFERENCIAS Y COMPENSACIONES SUBDERE,4143,RCOMPRED - Compensación Predios Exentos del Pago de Impuesto Territorial (Monto Percibido),4143 - RCOMPRED - Compensación Predios Exentos del Pago de Impuesto Territorial (Monto Percibido)
+I. TRANSFERENCIAS Y COMPENSACIONES SUBDERE,4203,RFIMGM - Fondo de Incentivo al Mejoramiento de la Gestión Municipal (FIGEM),4203 - RFIMGM - Fondo de Incentivo al Mejoramiento de la Gestión Municipal (FIGEM)
+I. TRANSFERENCIAS Y COMPENSACIONES SUBDERE,3893,RPMB10 - Programa de Mejoramiento de Barrios (PMB) (egresos registrados) (dato desde año 2009),3893 - RPMB10 - Programa de Mejoramiento de Barrios (PMB) (egresos registrados) (dato desde año 2009)
+I. TRANSFERENCIAS Y COMPENSACIONES SUBDERE,3883,RPMU11 - Programa de Mejoramiento Urbano y Equipamiento Comunal (PMU) (egresos registrados) (datos desde año 2009),3883 - RPMU11 - Programa de Mejoramiento Urbano y Equipamiento Comunal (PMU) (egresos registrados) (datos desde año 2009)
+I. TRANSFERENCIAS Y COMPENSACIONES SUBDERE,4409,RPREMIR - Programa Prevención y Mitigación de Riesgos (PREMIR),4409 - RPREMIR - Programa Prevención y Mitigación de Riesgos (PREMIR)
+I. TRANSFERENCIAS Y COMPENSACIONES SUBDERE,4144,RRECONST - Programa Recuperación de Ciudades (FRC),4144 - RRECONST - Programa Recuperación de Ciudades (FRC)
+I. TRANSFERENCIAS Y COMPENSACIONES SUBDERE,4410,RPRBIPE - Programa Revitalización de Barrios e Infraestructura Patrimonial y Emblemática (PRBIPE),4410 - RPRBIPE - Programa Revitalización de Barrios e Infraestructura Patrimonial y Emblemática (PRBIPE)
+I. TRANSFERENCIAS Y COMPENSACIONES SUBDERE,4408,RPTRAC - Programa Tenencia Responsable de Animales de Compañía (PTRAC) (datos desde 2017),4408 - RPTRAC - Programa Tenencia Responsable de Animales de Compañía (PTRAC) (datos desde 2017)
+I. TRANSFERENCIAS Y COMPENSACIONES SUBDERE,3894,RSFM12 - Sistema Financiero Municipal (SIFIM),3894 - RSFM12 - Sistema Financiero Municipal (SIFIM)
+J. FONDO COMÚN MUNICIPAL (FCM),4721,FCMMRO - Fondo Comunas Mineras - Royalty a la Minería,4721 - FCMMRO - Fondo Comunas Mineras - Royalty a la Minería
+J. FONDO COMÚN MUNICIPAL (FCM),4720,FETRO - Fondo de Equidad Territorial (FET) Royalty a la Minería,4720 - FETRO - Fondo de Equidad Territorial (FET) Royalty a la Minería
+J. FONDO COMÚN MUNICIPAL (FCM),4248,"FCM001 - Monto Percibido por Fondo Común Municipal (FCM) al 31 de Diciembre, transferido por TGR (corresponde al monto total percibido por Anticipos Pagados, Saldos Pagados y Aporte Fiscal Pagado).","4248 - FCM001 - Monto Percibido por Fondo Común Municipal (FCM) al 31 de Diciembre, transferido por TGR (corresponde al monto total percibido por Anticipos Pagados, Saldos Pagados y Aporte Fiscal Pagado)."
+K. GESTION MUNICIPAL,1310,IADM100 - Eficiencia Cobro Patentes Municipales,1310 - IADM100 - Eficiencia Cobro Patentes Municipales
+K. GESTION MUNICIPAL,4257,MLICENSIS - La Municipalidad ha adecuado su sistema para entregar Licencias de Conducir de acuerdo a las nuevas Normas Establecidas por el Ministerio de Transportes?,4257 - MLICENSIS - La Municipalidad ha adecuado su sistema para entregar Licencias de Conducir de acuerdo a las nuevas Normas Establecidas por el Ministerio de Transportes?
+K. GESTION MUNICIPAL,4536,LCNA3 - N° Licencia de Conducir Clase A3 nuevas y renovadas en el año.,4536 - LCNA3 - N° Licencia de Conducir Clase A3 nuevas y renovadas en el año.
+K. GESTION MUNICIPAL,4534,LCNA1 - N° Licencias de Conducir Clase A1 nuevas y renovadas en el año.,4534 - LCNA1 - N° Licencias de Conducir Clase A1 nuevas y renovadas en el año.
+K. GESTION MUNICIPAL,4535,LCNA2 - N° Licencias de Conducir Clase A2 nuevas y renovadas en el año.,4535 - LCNA2 - N° Licencias de Conducir Clase A2 nuevas y renovadas en el año.
+K. GESTION MUNICIPAL,4537,LCNA4 - N° Licencias de Conducir Clase A4 nuevas y renovadas en el año.,4537 - LCNA4 - N° Licencias de Conducir Clase A4 nuevas y renovadas en el año.
+K. GESTION MUNICIPAL,4538,LCNA5 - N° Licencias de Conducir Clase A5 nuevas y renovadas en el año.,4538 - LCNA5 - N° Licencias de Conducir Clase A5 nuevas y renovadas en el año.
+K. GESTION MUNICIPAL,4539,LCNB - N° Licencias de Conducir Clase B nuevas y renovadas en el año.,4539 - LCNB - N° Licencias de Conducir Clase B nuevas y renovadas en el año.
+K. GESTION MUNICIPAL,4540,LCNC - N° Licencias de Conducir Clase C nuevas y renovadas en el año.,4540 - LCNC - N° Licencias de Conducir Clase C nuevas y renovadas en el año.
+K. GESTION MUNICIPAL,4541,LCND - N° Licencias de Conducir Clase D nuevas y renovadas en el año.,4541 - LCND - N° Licencias de Conducir Clase D nuevas y renovadas en el año.
+K. GESTION MUNICIPAL,4542,LCNE - N° Licencias de Conducir Clase E nuevas y renovadas en el año.,4542 - LCNE - N° Licencias de Conducir Clase E nuevas y renovadas en el año.
+K. GESTION MUNICIPAL,4543,LCNF - N° Licencias de Conducir Clase F nuevas y renovadas en el año.,4543 - LCNF - N° Licencias de Conducir Clase F nuevas y renovadas en el año.
+K. GESTION MUNICIPAL,4243,IADM 125 - Porcentaje de Ejecución Presupuestaria Devengada Municipal,4243 - IADM 125 - Porcentaje de Ejecución Presupuestaria Devengada Municipal
+K. GESTION MUNICIPAL,4256,MLICEN - Su Municipalidad actualmente entrega Licencias de Conducir?,4256 - MLICEN - Su Municipalidad actualmente entrega Licencias de Conducir?
+A. PERSONAL DE PLANTA,1327,MGRADALC - Grado del Alcalde,1327 - MGRADALC - Grado del Alcalde
+A. PERSONAL DE PLANTA,640,"MHPPD - Número de Hombres de Planta, pertenecientes al escalafón Directivo, Sector Municipal","640 - MHPPD - Número de Hombres de Planta, pertenecientes al escalafón Directivo, Sector Municipal"
+A. PERSONAL DE PLANTA,636,"MMPPD - Número de Mujeres de Planta, pertenecientes al escalafón Directivo, Sector Municipal","636 - MMPPD - Número de Mujeres de Planta, pertenecientes al escalafón Directivo, Sector Municipal"
+A. PERSONAL DE PLANTA,637,"MMPPP - Número de Mujeres de Planta pertenecientes al escalafón Profesional, Sector Municipal","637 - MMPPP - Número de Mujeres de Planta pertenecientes al escalafón Profesional, Sector Municipal"
+A. PERSONAL DE PLANTA,4059,IRH05 - Número Funcionarios de Planta,4059 - IRH05 - Número Funcionarios de Planta
+A. PERSONAL DE PLANTA,4056,IRH02 - Número Funcionarios de Planta No Profesionales,4056 - IRH02 - Número Funcionarios de Planta No Profesionales
+A. PERSONAL DE PLANTA,4060,IRH06 - Número Funcionarios de Planta pertenecientes al Escalafón Directivo,4060 - IRH06 - Número Funcionarios de Planta pertenecientes al Escalafón Directivo
+A. PERSONAL DE PLANTA,4061,IRH07 - Número Funcionarios de Planta pertenecientes al Escalafón Profesional,4061 - IRH07 - Número Funcionarios de Planta pertenecientes al Escalafón Profesional
+A. PERSONAL DE PLANTA,4055,IRH01 - Número Funcionarios de Planta Profesionales,4055 - IRH01 - Número Funcionarios de Planta Profesionales
+A. PERSONAL DE PLANTA,641,"MHPPP - Número Hombres de Planta, pertenecientes al escalafón Profesional, Sector Municipal","641 - MHPPP - Número Hombres de Planta, pertenecientes al escalafón Profesional, Sector Municipal"
+B. PERSONAL A CONTRATA,4066,IRH12 - Número de Funcionarios a Contrata,4066 - IRH12 - Número de Funcionarios a Contrata
+B. PERSONAL A CONTRATA,4063,IRH09 - Número de Funcionarios a Contrata No Profesionales,4063 - IRH09 - Número de Funcionarios a Contrata No Profesionales
+B. PERSONAL A CONTRATA,4068,IRH14 - Número de Funcionarios a Contrata pertenecientes al Escalafón Profesional,4068 - IRH14 - Número de Funcionarios a Contrata pertenecientes al Escalafón Profesional
+B. PERSONAL A CONTRATA,4062,IRH08 - Número de Funcionarios a Contrata Profesional,4062 - IRH08 - Número de Funcionarios a Contrata Profesional
+B. PERSONAL A CONTRATA,642,"MHCPD - Número de Hombres a Contrata pertenecientes al escalafón Directivo, Sector Municipal","642 - MHCPD - Número de Hombres a Contrata pertenecientes al escalafón Directivo, Sector Municipal"
+B. PERSONAL A CONTRATA,643,"MHCPP - Número de Hombres a Contrata pertenecientes al escalafón Profesional, Sector Municipal","643 - MHCPP - Número de Hombres a Contrata pertenecientes al escalafón Profesional, Sector Municipal"
+B. PERSONAL A CONTRATA,638,"MMCPD - Número de Mujeres a Contrata pertenecientes al escalafón Directivo, Sector Municipal","638 - MMCPD - Número de Mujeres a Contrata pertenecientes al escalafón Directivo, Sector Municipal"
+B. PERSONAL A CONTRATA,639,"MMCPP - Número de Mujeres a Contrata pertenecientes al escalafón Profesional, Sector Municipal","639 - MMCPP - Número de Mujeres a Contrata pertenecientes al escalafón Profesional, Sector Municipal"
+C. HONORARIOS ,4475,"MTPHPHE - Número de Hombres a Honorarios, destinados a Programas Comunitarios con Recursos Externos (21.04.004.000) (2)","4475 - MTPHPHE - Número de Hombres a Honorarios, destinados a Programas Comunitarios con Recursos Externos (21.04.004.000) (2)"
+C. HONORARIOS ,4474,MTPHPHI - Número de Hombres a Honorarios destinados a Programas Comunitarios con Recursos Municipales (cta 21.04.004.000) (1),4474 - MTPHPHI - Número de Hombres a Honorarios destinados a Programas Comunitarios con Recursos Municipales (cta 21.04.004.000) (1)
+C. HONORARIOS ,4477,MTPHPME - Número de Mujeres a Honorarios destinados a Programas Comunitarios con Recursos Externos (21.04.004.000) (2),4477 - MTPHPME - Número de Mujeres a Honorarios destinados a Programas Comunitarios con Recursos Externos (21.04.004.000) (2)
+C. HONORARIOS ,4476,MTPHPMI - Número de Mujeres a Honorarios destinados a Programas Comunitarios con Recursos Municipales (21.04.004.000) (1),4476 - MTPHPMI - Número de Mujeres a Honorarios destinados a Programas Comunitarios con Recursos Municipales (21.04.004.000) (1)
+C. HONORARIOS ,4070,"IRH16 - Número Total de Hombres y Mujeres a Honorarios, destinados a Programas Comunitarios (Subtítulo 21.04.004)","4070 - IRH16 - Número Total de Hombres y Mujeres a Honorarios, destinados a Programas Comunitarios (Subtítulo 21.04.004)"
+C. HONORARIOS ,4069,IRH15 - Número Total de Hombres y Mujeres a Honorarios (Subtitulo 21.03),4069 - IRH15 - Número Total de Hombres y Mujeres a Honorarios (Subtitulo 21.03)
+D. OTROS INDICADORES,738,IADM25 - Nivel de Profesionalización del Personal Municipal,738 - IADM25 - Nivel de Profesionalización del Personal Municipal
+D. OTROS INDICADORES,4071,IRH17 - Número de Funcionarios Municipales (Planta y Contrata),4071 - IRH17 - Número de Funcionarios Municipales (Planta y Contrata)
+D. OTROS INDICADORES,4074,IRH19 - Número de Hombres Municipales (Planta y Contrata),4074 - IRH19 - Número de Hombres Municipales (Planta y Contrata)
+D. OTROS INDICADORES,4073,IRH18 - Número de Mujeres Municipales (Planta y Contrata),4073 - IRH18 - Número de Mujeres Municipales (Planta y Contrata)
+D. OTROS INDICADORES,847,IADM33 - Participación Femenina de Funcionarios Municipales,847 - IADM33 - Participación Femenina de Funcionarios Municipales
+D. OTROS INDICADORES,853,IADM35 - Participación Femenina en Escalafones Profesionales y Directivos sobre el Total de Funcionarios Municipales  en estos Escalafones,853 - IADM35 - Participación Femenina en Escalafones Profesionales y Directivos sobre el Total de Funcionarios Municipales  en estos Escalafones
+D. OTROS INDICADORES,742,IADM27 - Participación Femenina en Profesionales y Directivos Municipales Sobre el Total de Funcionarios Municipales,742 - IADM27 - Participación Femenina en Profesionales y Directivos Municipales Sobre el Total de Funcionarios Municipales
+D. OTROS INDICADORES,739,IADM26 - Participación Masculina de Funcionarios Municipales,739 - IADM26 - Participación Masculina de Funcionarios Municipales
+D. OTROS INDICADORES,854,IADM36 - Participación Masculina en Escalafones Profesionales y Directivos sobre el Total de Funcionarios Municipales en estos Escalafones,854 - IADM36 - Participación Masculina en Escalafones Profesionales y Directivos sobre el Total de Funcionarios Municipales en estos Escalafones
+D. OTROS INDICADORES,848,IADM34 - Participación Masculina en Profesionales y Directivos Municipales sobre el Total de Funcionarios Municipales,848 - IADM34 - Participación Masculina en Profesionales y Directivos Municipales sobre el Total de Funcionarios Municipales
+A. ANTECEDENTES GENERALES DE EDUCACION,552,IPEEC - Población Comunal en Edad Escolar,552 - IPEEC - Población Comunal en Edad Escolar
+A. ANTECEDENTES GENERALES DE EDUCACION,1207,IEDU003 - ¿Posee Enseñanza Media Municipal?,1207 - IEDU003 - ¿Posee Enseñanza Media Municipal?
+A. ANTECEDENTES GENERALES DE EDUCACION,4442,MDESMEDU - Realizó Traspaso de la Educación Municipal al Servicio Local de Educación (desmunicipalización),4442 - MDESMEDU - Realizó Traspaso de la Educación Municipal al Servicio Local de Educación (desmunicipalización)
+A. ANTECEDENTES GENERALES DE EDUCACION,3742,MPADEM - ¿Su Municipio Posee PADEM?,3742 - MPADEM - ¿Su Municipio Posee PADEM?
+A. ANTECEDENTES GENERALES DE EDUCACION,1201,MTASE - Tipo de Administración Sistema de Educación Municipal,1201 - MTASE - Tipo de Administración Sistema de Educación Municipal
+B. ASISTENCIA Y MATRÍCULAS EN EDUCACION,743,IEDU009 - Cobertura en Educación Municipal,743 - IEDU009 - Cobertura en Educación Municipal
+B. ASISTENCIA Y MATRÍCULAS EN EDUCACION,519,DMGBA - Matrícula General de Alumnos de Enseñanza Básica Municipal,519 - DMGBA - Matrícula General de Alumnos de Enseñanza Básica Municipal
+B. ASISTENCIA Y MATRÍCULAS EN EDUCACION,521,DMGMA - Matrícula General de Alumnos de Enseñanza Media Municipal,521 - DMGMA - Matrícula General de Alumnos de Enseñanza Media Municipal
+B. ASISTENCIA Y MATRÍCULAS EN EDUCACION,523,DMIB - Matrícula Inicial de Alumnos de Enseñanza Básica Municipal,523 - DMIB - Matrícula Inicial de Alumnos de Enseñanza Básica Municipal
+B. ASISTENCIA Y MATRÍCULAS EN EDUCACION,525,DMIM - Matrícula Inicial de Alumnos de Enseñanza Media Municipal,525 - DMIM - Matrícula Inicial de Alumnos de Enseñanza Media Municipal
+B. ASISTENCIA Y MATRÍCULAS EN EDUCACION,553,DNAM - Matrícula Inicial en Establecimientos Municipales,553 - DNAM - Matrícula Inicial en Establecimientos Municipales
+B. ASISTENCIA Y MATRÍCULAS EN EDUCACION,527,DMIPP - Matrícula Inicial en Establecimientos Particulares Pagados,527 - DMIPP - Matrícula Inicial en Establecimientos Particulares Pagados
+B. ASISTENCIA Y MATRÍCULAS EN EDUCACION,526,DMIPS - Matrícula Inicial en Establecimientos Particulares Subvencionados,526 - DMIPS - Matrícula Inicial en Establecimientos Particulares Subvencionados
+B. ASISTENCIA Y MATRÍCULAS EN EDUCACION,764,IEDU008 - Matrícula Promedio Mensual Establecimientos de Educación Municipal,764 - IEDU008 - Matrícula Promedio Mensual Establecimientos de Educación Municipal
+B. ASISTENCIA Y MATRÍCULAS EN EDUCACION,761,IEDU005 - Porcentaje de Asistencia Escolar Comunal,761 - IEDU005 - Porcentaje de Asistencia Escolar Comunal
+B. ASISTENCIA Y MATRÍCULAS EN EDUCACION,762,IEDU006 - Porcentaje de Retiro de Alumnos de Establecimientos Municipales en Enseñanza Básica,762 - IEDU006 - Porcentaje de Retiro de Alumnos de Establecimientos Municipales en Enseñanza Básica
+B. ASISTENCIA Y MATRÍCULAS EN EDUCACION,763,IEDU007 - Porcentaje de Retiro de Alumnos de Establecimientos Municipales en Enseñanza Media,763 - IEDU007 - Porcentaje de Retiro de Alumnos de Establecimientos Municipales en Enseñanza Media
+C. RESULTADOS PAES,539,UPRM - Número de alumnos de 4º medio de colegios municipales que rindieron la PAES por primera vez,539 - UPRM - Número de alumnos de 4º medio de colegios municipales que rindieron la PAES por primera vez
+C. RESULTADOS PAES,543,UPRP - Número de alumnos de 4º medio de colegios particulares que rindieron la PAES por primera vez,543 - UPRP - Número de alumnos de 4º medio de colegios particulares que rindieron la PAES por primera vez
+C. RESULTADOS PAES,541,UPRPS - Número de alumnos de 4º medio de colegios particulares subvencionados que rindieron la PAES por primera vez,541 - UPRPS - Número de alumnos de 4º medio de colegios particulares subvencionados que rindieron la PAES por primera vez
+C. RESULTADOS PAES,4598,"PINVM - Número de alumnos provenientes de colegios municipales de la comuna, que rindió la PAES de Invierno en  julio.","4598 - PINVM - Número de alumnos provenientes de colegios municipales de la comuna, que rindió la PAES de Invierno en  julio."
+C. RESULTADOS PAES,4600,"PINVP - Número de alumnos provenientes de colegios Particulares de la comuna, que rindió la PAES de Invierno en  julio.","4600 - PINVP - Número de alumnos provenientes de colegios Particulares de la comuna, que rindió la PAES de Invierno en  julio."
+C. RESULTADOS PAES,4599,"PINVPS - Número de  alumnos provenientes de colegios Particulares Subvencionados de la comuna, que rindió la PAES de Invierno en  julio.","4599 - PINVPS - Número de  alumnos provenientes de colegios Particulares Subvencionados de la comuna, que rindió la PAES de Invierno en  julio."
+C. RESULTADOS PAES,4601,"PJEINVM - Número de alumnos que obtienen un puntaje PAES de invierno  igual o superior a 458 puntos, rendida por primera vez en Julio y que estudiaron 4° de Enseñanza Media en Colegios Municipales d","4601 - PJEINVM - Número de alumnos que obtienen un puntaje PAES de invierno  igual o superior a 458 puntos, rendida por primera vez en Julio y que estudiaron 4° de Enseñanza Media en Colegios Municipales d"
+C. RESULTADOS PAES,4603,"PJEINVP - Número de alumnos que obtienen un puntaje PAES de invierno igual o superior a 458 puntos, rendida por primera vez en Julio y que estudiaron 4° de Enseñanza Media en Colegios Particulares d","4603 - PJEINVP - Número de alumnos que obtienen un puntaje PAES de invierno igual o superior a 458 puntos, rendida por primera vez en Julio y que estudiaron 4° de Enseñanza Media en Colegios Particulares d"
+C. RESULTADOS PAES,4602,"PJEINVPS - Número de alumnos que obtienen un puntaje PAES de invierno igual o superior a 458 puntos, rendida por primera vez en Julio  y que estudiaron 4° de Enseñanza Media en Colegios Particulares S","4602 - PJEINVPS - Número de alumnos que obtienen un puntaje PAES de invierno igual o superior a 458 puntos, rendida por primera vez en Julio  y que estudiaron 4° de Enseñanza Media en Colegios Particulares S"
+C. RESULTADOS PAES,538,UPPSM - Número de PAES igual o superior a 458 puntos (que rinde la prueba por primera vez) en colegios municipales,538 - UPPSM - Número de PAES igual o superior a 458 puntos (que rinde la prueba por primera vez) en colegios municipales
+C. RESULTADOS PAES,542,UPPSP - Número de PAES igual o superior a 458 puntos (que rinde la prueba por primera vez) en colegios particulares pagados,542 - UPPSP - Número de PAES igual o superior a 458 puntos (que rinde la prueba por primera vez) en colegios particulares pagados
+C. RESULTADOS PAES,540,UPPSPS - Número de PAES igual o superior a 458 puntos (que rinde la prueba por primera vez) en colegios particulares subvencionados,540 - UPPSPS - Número de PAES igual o superior a 458 puntos (que rinde la prueba por primera vez) en colegios particulares subvencionados
+C. RESULTADOS PAES,778,IEDU011 - Porcentaje de Puntajes PAES Igual o Superior a 458 Puntos en Establecimientos Municipales de Educación,778 - IEDU011 - Porcentaje de Puntajes PAES Igual o Superior a 458 Puntos en Establecimientos Municipales de Educación
+C. RESULTADOS PAES,779,IEDU012 - Porcentaje de Puntajes PAES Igual o Superior a 458 Puntos en Establecimientos  Particulares Subvencionados de Educación,779 - IEDU012 - Porcentaje de Puntajes PAES Igual o Superior a 458 Puntos en Establecimientos  Particulares Subvencionados de Educación
+C. RESULTADOS PAES,780,IEDU013 - Porcentaje de Puntajes PSU Igual o Superior a 450 Puntos en Establecimientos Particulares Pagados de Educación,780 - IEDU013 - Porcentaje de Puntajes PSU Igual o Superior a 450 Puntos en Establecimientos Particulares Pagados de Educación
+D. INGRESOS EN EDUCACION MUNICIPAL,1062,IEDU019 - Aporte del MINEDUC (Subvención) respecto al Ingreso Total Percibido Sector Educación,1062 - IEDU019 - Aporte del MINEDUC (Subvención) respecto al Ingreso Total Percibido Sector Educación
+D. INGRESOS EN EDUCACION MUNICIPAL,931,IEDU020 - Aporte Municipal al Sector Educación,931 - IEDU020 - Aporte Municipal al Sector Educación
+D. INGRESOS EN EDUCACION MUNICIPAL,1260,IEDU022 - Aporte Municipal al Sector Educación respecto al Ingreso Total Percibido Municipal,1260 - IEDU022 - Aporte Municipal al Sector Educación respecto al Ingreso Total Percibido Municipal
+D. INGRESOS EN EDUCACION MUNICIPAL,1061,IEDU021 - Aporte Municipal al Sector Educación respecto al Ingreso Total Percibido Sector Educación,1061 - IEDU021 - Aporte Municipal al Sector Educación respecto al Ingreso Total Percibido Sector Educación
+D. INGRESOS EN EDUCACION MUNICIPAL,549,RFNDRE - Fondo Nacional de Desarrollo Regional (FNDR) a Educación,549 - RFNDRE - Fondo Nacional de Desarrollo Regional (FNDR) a Educación
+D. INGRESOS EN EDUCACION MUNICIPAL,935,IEDU016 - Ingresos Educación  (Ingreso Total Percibido),935 - IEDU016 - Ingresos Educación  (Ingreso Total Percibido)
+D. INGRESOS EN EDUCACION MUNICIPAL,4246,IEDU999 - Ingresos Educación (Ingreso Total Percibido) sin Saldo Inicial de Caja,4246 - IEDU999 - Ingresos Educación (Ingreso Total Percibido) sin Saldo Inicial de Caja
+D. INGRESOS EN EDUCACION MUNICIPAL,930,IEDU017 - Ingresos Totales de Educación Municipal descontadas las Transferencias del Municipio a Educación,930 - IEDU017 - Ingresos Totales de Educación Municipal descontadas las Transferencias del Municipio a Educación
+D. INGRESOS EN EDUCACION MUNICIPAL,4214,BPIIE - Presupuesto Inicial Sector Educación,4214 - BPIIE - Presupuesto Inicial Sector Educación
+D. INGRESOS EN EDUCACION MUNICIPAL,4227,BPVESALINI - Presupuesto Vigente Saldo Inicial de Caja Sector Educación,4227 - BPVESALINI - Presupuesto Vigente Saldo Inicial de Caja Sector Educación
+D. INGRESOS EN EDUCACION MUNICIPAL,4216,BPVIE - Presupuesto Vigente Sector Educación,4216 - BPVIE - Presupuesto Vigente Sector Educación
+D. INGRESOS EN EDUCACION MUNICIPAL,932,IEDU018 - Subvención de Escolaridad (del Mineduc),932 - IEDU018 - Subvención de Escolaridad (del Mineduc)
+D. INGRESOS EN EDUCACION MUNICIPAL,1140,IEDU023 - Transferencias Municipales a Educación sobre Ingresos Propios Municipales,1140 - IEDU023 - Transferencias Municipales a Educación sobre Ingresos Propios Municipales
+E. GASTOS EN EDUCACION MUNICIPAL,939,IEDU026 - Gasto en Personal del Sector Educación,939 - IEDU026 - Gasto en Personal del Sector Educación
+E. GASTOS EN EDUCACION MUNICIPAL,937,IEDU029 - Gastos de Funcionamiento del Sector Educación,937 - IEDU029 - Gastos de Funcionamiento del Sector Educación
+E. GASTOS EN EDUCACION MUNICIPAL,936,IEDU025 - Gastos Educación (Gasto Total Devengado),936 - IEDU025 - Gastos Educación (Gasto Total Devengado)
+E. GASTOS EN EDUCACION MUNICIPAL,945,IEDU031 - Inversión Real Sector Educación,945 - IEDU031 - Inversión Real Sector Educación
+E. GASTOS EN EDUCACION MUNICIPAL,1066,IEDU030 - Porcentaje de Gastos en Funcionamiento del Sector Educación,1066 - IEDU030 - Porcentaje de Gastos en Funcionamiento del Sector Educación
+E. GASTOS EN EDUCACION MUNICIPAL,1070,IEDU028 - Porcentaje de Gastos en Personal del Area Educación respecto del Aporte de Subvención MINEDUC,1070 - IEDU028 - Porcentaje de Gastos en Personal del Area Educación respecto del Aporte de Subvención MINEDUC
+E. GASTOS EN EDUCACION MUNICIPAL,1065,IEDU027 - Porcentaje de Gastos en Personal del Sector Educación,1065 - IEDU027 - Porcentaje de Gastos en Personal del Sector Educación
+E. GASTOS EN EDUCACION MUNICIPAL,1067,IEDU032 - Porcentaje de Inversión sobre Gasto Total de Educación,1067 - IEDU032 - Porcentaje de Inversión sobre Gasto Total de Educación
+E. GASTOS EN EDUCACION MUNICIPAL,4215,BPIGE - Presupuesto Inicial Gastos Educación,4215 - BPIGE - Presupuesto Inicial Gastos Educación
+E. GASTOS EN EDUCACION MUNICIPAL,4217,BPVGE - Presupuesto Vigente Gastos Educación,4217 - BPVGE - Presupuesto Vigente Gastos Educación
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,4045,DTPND - Asistentes Adscritos a Establecimientos de Educación Municipal (Fuente: MINEDUC desde 2011),4045 - DTPND - Asistentes Adscritos a Establecimientos de Educación Municipal (Fuente: MINEDUC desde 2011)
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,593,DNDA - Docentes de Aula Contratados (Fuente: MINEDUC),593 - DNDA - Docentes de Aula Contratados (Fuente: MINEDUC)
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,4413,IEDU042.1 - Gasto en Personal a Contrata Sector Educación,4413 - IEDU042.1 - Gasto en Personal a Contrata Sector Educación
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,4424,IEDU043.1 - Gasto en Personal a Honorarios del Sector Educación (Subtítulo 21.03),4424 - IEDU043.1 - Gasto en Personal a Honorarios del Sector Educación (Subtítulo 21.03)
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,4414,IEDU043.2 - Gasto en Personal a Honorarios Suma Alzada y Asimilados a Grado del Sector Educación (sólo 21.03.001 y 21.03.002),4414 - IEDU043.2 - Gasto en Personal a Honorarios Suma Alzada y Asimilados a Grado del Sector Educación (sólo 21.03.001 y 21.03.002)
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,4411,IEDU040.1 - Gasto en Personal de Planta Sector Educación,4411 - IEDU040.1 - Gasto en Personal de Planta Sector Educación
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,4415,IEDU026.1 - Gasto Total en Personal del Sector Educación (Subtítulo 21),4415 - IEDU026.1 - Gasto Total en Personal del Sector Educación (Subtítulo 21)
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,781,IEDU035 - Número de Alumnos por Docente de Aula (Fuente: MINEDUC),781 - IEDU035 - Número de Alumnos por Docente de Aula (Fuente: MINEDUC)
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,4520,MTPATSLE - Número de Personal en educación antes del traspaso al Servicio Local de Educación,4520 - MTPATSLE - Número de Personal en educación antes del traspaso al Servicio Local de Educación
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,4521,MTPDTSLE - Número de Personal en educación que quedó contratado en el municipio después del traspaso al Servicio Local de Educación,4521 - MTPDTSLE - Número de Personal en educación que quedó contratado en el municipio después del traspaso al Servicio Local de Educación
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,4519,MTPTSLE - Número de Personal en educación traspasados al Servicio Local de Educación,4519 - MTPTSLE - Número de Personal en educación traspasados al Servicio Local de Educación
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,4207,IEDU042 - Personal a Contrata Sector Educación,4207 - IEDU042 - Personal a Contrata Sector Educación
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,4145,DTPAEE - Personal Adscrito a Establecimientos de Educación Municipal (Fuente: MINEDUC desde 2011),4145 - DTPAEE - Personal Adscrito a Establecimientos de Educación Municipal (Fuente: MINEDUC desde 2011)
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,4208,IEDU043 - Personal a Honorarios Sector Educación,4208 - IEDU043 - Personal a Honorarios Sector Educación
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,612,MTPND - Personal Asistente de la Educación Municipal (No Docente),612 - MTPND - Personal Asistente de la Educación Municipal (No Docente)
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,4206,IEDU041 - Personal Código del Trabajo Sector Educación,4206 - IEDU041 - Personal Código del Trabajo Sector Educación
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,4205,IEDU040 - Personal de Planta Sector Educación,4205 - IEDU040 - Personal de Planta Sector Educación
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,548,MTPD - Personal Docente,548 - MTPD - Personal Docente
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,4082,MPECT - Personal Honorarios en Prestaciones Serv. Programas Comunitarios Sector Educación (cta. pres. 21.04.004.000),4082 - MPECT - Personal Honorarios en Prestaciones Serv. Programas Comunitarios Sector Educación (cta. pres. 21.04.004.000)
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,3786,IEDU039 - Personal Sector Educación (Planta y Contrata) (desde 2008),3786 - IEDU039 - Personal Sector Educación (Planta y Contrata) (desde 2008)
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,783,IEDU036 - Porcentaje Personal Docente respecto al Personal del Área Educación (Fuente: Encuesta Municipal),783 - IEDU036 - Porcentaje Personal Docente respecto al Personal del Área Educación (Fuente: Encuesta Municipal)
+F. RECURSOS HUMANOS EN SECTOR EDUCACION,1141,IEDU037 - Relación Personal Docente vs. Personal No Docente del Sector Educación (Fuente: Encuesta Municipal),1141 - IEDU037 - Relación Personal Docente vs. Personal No Docente del Sector Educación (Fuente: Encuesta Municipal)
+G. ESTABLECIMIENTOS DE EDUCACION MUNICIPAL,684,MTEMCR - Número de Establecimientos de Educación Municipal en Áreas Rurales,684 - MTEMCR - Número de Establecimientos de Educación Municipal en Áreas Rurales
+G. ESTABLECIMIENTOS DE EDUCACION MUNICIPAL,685,MTEMCU - Número de Establecimientos de Educación Municipal en Áreas Urbanas,685 - MTEMCU - Número de Establecimientos de Educación Municipal en Áreas Urbanas
+G. ESTABLECIMIENTOS DE EDUCACION MUNICIPAL,786,IEDU002 - Número de Establecimientos  de Educación Municipal  (rurales y urbanos),786 - IEDU002 - Número de Establecimientos  de Educación Municipal  (rurales y urbanos)
+G. ESTABLECIMIENTOS DE EDUCACION MUNICIPAL,4518,MTEPRC - Número de Establecimientos educacionales de propiedad de la corporación,4518 - MTEPRC - Número de Establecimientos educacionales de propiedad de la corporación
+G. ESTABLECIMIENTOS DE EDUCACION MUNICIPAL,4517,MTEPRM - Número de Establecimientos educacionales de propiedad municipal,4517 - MTEPRM - Número de Establecimientos educacionales de propiedad municipal
+A. ANTECEDENTES GENERALES DE SALUD,1202,MASM - ¿Administra Servicio de Salud Primaria?,1202 - MASM - ¿Administra Servicio de Salud Primaria?
+A. ANTECEDENTES GENERALES DE SALUD,464,HPISM - Población Inscrita Validada en Servicios de Salud Municipal (FONASA),464 - HPISM - Población Inscrita Validada en Servicios de Salud Municipal (FONASA)
+A. ANTECEDENTES GENERALES DE SALUD,1203,MTAS - Tipo de Administración de Sistema de Salud Municipal,1203 - MTAS - Tipo de Administración de Sistema de Salud Municipal
+B. COBERTURA EN SALUD MUNICIPAL,795,ISAL006 - Cobertura de Examen Preventivo del Adulto,795 - ISAL006 - Cobertura de Examen Preventivo del Adulto
+B. COBERTURA EN SALUD MUNICIPAL,788,ISAL005 - Cobertura de Salud Primaria Municipal,788 - ISAL005 - Cobertura de Salud Primaria Municipal
+B. COBERTURA EN SALUD MUNICIPAL,3745,GTCM10 - Consultas de Morbilidad otorgadas a menores de 10 años,3745 - GTCM10 - Consultas de Morbilidad otorgadas a menores de 10 años
+B. COBERTURA EN SALUD MUNICIPAL,3746,GTCMNBA20 - Consultas de Morbilidad otorgadas a personas de 20 años y más,3746 - GTCMNBA20 - Consultas de Morbilidad otorgadas a personas de 20 años y más
+B. COBERTURA EN SALUD MUNICIPAL,694,MTCM1019 - Consultas de Morbilidad Realizadas a Adolescentes entre 10 - 19,694 - MTCM1019 - Consultas de Morbilidad Realizadas a Adolescentes entre 10 - 19
+B. COBERTURA EN SALUD MUNICIPAL,696,MTCMNBA2 - Consultas de Morbilidad Realizadas a Mayores de 65 Años,696 - MTCMNBA2 - Consultas de Morbilidad Realizadas a Mayores de 65 Años
+B. COBERTURA EN SALUD MUNICIPAL,457,MTCMMBA - Consultas Médicas Anuales Efectuadas por la Población Mayor de 20 Años,457 - MTCMMBA - Consultas Médicas Anuales Efectuadas por la Población Mayor de 20 Años
+B. COBERTURA EN SALUD MUNICIPAL,3744,GTCM - Consultas Médicas realizadas en APS,3744 - GTCM - Consultas Médicas realizadas en APS
+B. COBERTURA EN SALUD MUNICIPAL,3747,"GTMRS - Evaluaciones del Desarrollo Psico-motor, Otorgadas a Menores de 18 meses de Edad","3747 - GTMRS - Evaluaciones del Desarrollo Psico-motor, Otorgadas a Menores de 18 meses de Edad"
+B. COBERTURA EN SALUD MUNICIPAL,3748,GNAESPA - Exámenes de Salud Preventivos del Adulto (ESPA),3748 - GNAESPA - Exámenes de Salud Preventivos del Adulto (ESPA)
+B. COBERTURA EN SALUD MUNICIPAL,3751,HIAAPS - Indice de Actividad de Atención Primaria de Salud,3751 - HIAAPS - Indice de Actividad de Atención Primaria de Salud
+B. COBERTURA EN SALUD MUNICIPAL,3880,GITPC - Ingreso Total Per Cápita recibido por Municipio durante el año (Fuente: MINSAL),3880 - GITPC - Ingreso Total Per Cápita recibido por Municipio durante el año (Fuente: MINSAL)
+B. COBERTURA EN SALUD MUNICIPAL,461,MNMPV - Mujeres Entre 25 y 64 Años con PAP Vigente,461 - MNMPV - Mujeres Entre 25 y 64 Años con PAP Vigente
+B. COBERTURA EN SALUD MUNICIPAL,470,HPV2064 - Población Adulta entre 20 y 64 Años Validada como Beneficiaria por FONASA para el mismo Año,470 - HPV2064 - Población Adulta entre 20 y 64 Años Validada como Beneficiaria por FONASA para el mismo Año
+B. COBERTURA EN SALUD MUNICIPAL,594,"HPVM2 - Población Beneficiaria Menor de 2 años, Validada por FONASA","594 - HPVM2 - Población Beneficiaria Menor de 2 años, Validada por FONASA"
+B. COBERTURA EN SALUD MUNICIPAL,466,HPVM6 - Población Beneficiaria Menor de 6 Años Validada por FONASA,466 - HPVM6 - Población Beneficiaria Menor de 6 Años Validada por FONASA
+B. COBERTURA EN SALUD MUNICIPAL,3743,GPHAPB - Población de 20 y más años bajo control en Programa de Hipertensión Arterial,3743 - GPHAPB - Población de 20 y más años bajo control en Programa de Hipertensión Arterial
+B. COBERTURA EN SALUD MUNICIPAL,3749,"GPCV20 - Población de 20 y más años bajo control en Programa de Riesgo Cardio-Vascular (incluye hipertensos, diabéticos y dislipidémicos)","3749 - GPCV20 - Población de 20 y más años bajo control en Programa de Riesgo Cardio-Vascular (incluye hipertensos, diabéticos y dislipidémicos)"
+B. COBERTURA EN SALUD MUNICIPAL,469,HPVF2564 - Población Femenina entre 25 y 64 años Validada como Beneficiaria por FONASA para el mismo Año,469 - HPVF2564 - Población Femenina entre 25 y 64 años Validada como Beneficiaria por FONASA para el mismo Año
+B. COBERTURA EN SALUD MUNICIPAL,787,ISAL004 - Población Inscrita Validada en Servicios de Salud Municipal (FONASA),787 - ISAL004 - Población Inscrita Validada en Servicios de Salud Municipal (FONASA)
+B. COBERTURA EN SALUD MUNICIPAL,471,HPVM64 - Población Mayor de 64 años Validada como Beneficiaria por FONASA,471 - HPVM64 - Población Mayor de 64 años Validada como Beneficiaria por FONASA
+C. INGRESOS  EN SALUD MUNICIPAL,1126,ISAL012 - Aporte del MINSAL (per cápita) respecto del Ingreso Total del Sector Salud,1126 - ISAL012 - Aporte del MINSAL (per cápita) respecto del Ingreso Total del Sector Salud
+C. INGRESOS  EN SALUD MUNICIPAL,953,ISAL013 - Aporte Municipal al Sector Salud,953 - ISAL013 - Aporte Municipal al Sector Salud
+C. INGRESOS  EN SALUD MUNICIPAL,1261,ISAL015 - Aporte Municipal al Sector Salud respecto al Ingreso Total Percibido Municipal,1261 - ISAL015 - Aporte Municipal al Sector Salud respecto al Ingreso Total Percibido Municipal
+C. INGRESOS  EN SALUD MUNICIPAL,472,RFNDRS - Fondo Nacional de Desarrollo Regional (FNDR) a Salud,472 - RFNDRS - Fondo Nacional de Desarrollo Regional (FNDR) a Salud
+C. INGRESOS  EN SALUD MUNICIPAL,954,ISAL011 - Ingresos por Aporte del MINSAL (Per Cápita),954 - ISAL011 - Ingresos por Aporte del MINSAL (Per Cápita)
+C. INGRESOS  EN SALUD MUNICIPAL,1124,ISAL009 - Ingresos Salud (Ingreso Total Percibido),1124 - ISAL009 - Ingresos Salud (Ingreso Total Percibido)
+C. INGRESOS  EN SALUD MUNICIPAL,4247,ISAL999 - Ingresos Salud (Ingreso Total Percibido) sin Saldo Inicial de Caja,4247 - ISAL999 - Ingresos Salud (Ingreso Total Percibido) sin Saldo Inicial de Caja
+C. INGRESOS  EN SALUD MUNICIPAL,947,ISAL010 - Ingresos Totales Area Salud Descontadas las Transferencias del Municipio al Sector,947 - ISAL010 - Ingresos Totales Area Salud Descontadas las Transferencias del Municipio al Sector
+C. INGRESOS  EN SALUD MUNICIPAL,3750,HITPC - Ingreso Total Per Capita recibido por Municipios,3750 - HITPC - Ingreso Total Per Capita recibido por Municipios
+C. INGRESOS  EN SALUD MUNICIPAL,4218,BPIIS - Presupuesto Inicial Sector Salud,4218 - BPIIS - Presupuesto Inicial Sector Salud
+C. INGRESOS  EN SALUD MUNICIPAL,4228,BPVSSALINI - Presupuesto Vigente Saldo Inicial de Caja Sector Salud,4228 - BPVSSALINI - Presupuesto Vigente Saldo Inicial de Caja Sector Salud
+C. INGRESOS  EN SALUD MUNICIPAL,4220,BPVIS - Presupuesto Vigente Sector Salud,4220 - BPVIS - Presupuesto Vigente Sector Salud
+C. INGRESOS  EN SALUD MUNICIPAL,1138,ISAL016 - Transferencias Municipales a Salud sobre Ingresos Propios Municipales,1138 - ISAL016 - Transferencias Municipales a Salud sobre Ingresos Propios Municipales
+D. GASTOS EN SALUD MUNICIPAL,1134,ISAL23 - Gasto Anual del Area Salud por Habitante Inscrito Validado (Población Según Decreto Anual MINSAL),1134 - ISAL23 - Gasto Anual del Area Salud por Habitante Inscrito Validado (Población Según Decreto Anual MINSAL)
+D. GASTOS EN SALUD MUNICIPAL,962,ISAL025 - Gasto en Capacitación Personal Area Salud,962 - ISAL025 - Gasto en Capacitación Personal Area Salud
+D. GASTOS EN SALUD MUNICIPAL,956,ISAL019 - Gasto en Personal del Sector Salud,956 - ISAL019 - Gasto en Personal del Sector Salud
+D. GASTOS EN SALUD MUNICIPAL,957,ISAL021 - Gastos del Funcionamiento del Sector Salud,957 - ISAL021 - Gastos del Funcionamiento del Sector Salud
+D. GASTOS EN SALUD MUNICIPAL,1128,ISAL018 - Gastos Salud (Gasto Total Devengado),1128 - ISAL018 - Gastos Salud (Gasto Total Devengado)
+D. GASTOS EN SALUD MUNICIPAL,964,ISAL023 - Inversión Real Sector Salud,964 - ISAL023 - Inversión Real Sector Salud
+D. GASTOS EN SALUD MUNICIPAL,1130,ISAL022 - Porcentaje de Gasto de Funcionamiento Sobre el Gasto Total de Salud,1130 - ISAL022 - Porcentaje de Gasto de Funcionamiento Sobre el Gasto Total de Salud
+D. GASTOS EN SALUD MUNICIPAL,1135,ISAL026 - Porcentaje de Gasto en Capacitación de Recursos Humanos del Area Salud,1135 - ISAL026 - Porcentaje de Gasto en Capacitación de Recursos Humanos del Area Salud
+D. GASTOS EN SALUD MUNICIPAL,1136,ISAL024 - Porcentaje de Inversión Real sobre Gasto Total de Salud,1136 - ISAL024 - Porcentaje de Inversión Real sobre Gasto Total de Salud
+D. GASTOS EN SALUD MUNICIPAL,1129,ISAL020 - Porcentaje del Gasto en Personal de Salud Sobre el Gasto Total de Salud,1129 - ISAL020 - Porcentaje del Gasto en Personal de Salud Sobre el Gasto Total de Salud
+D. GASTOS EN SALUD MUNICIPAL,4219,BPIGS - Presupuesto Inicial Gastos Salud,4219 - BPIGS - Presupuesto Inicial Gastos Salud
+D. GASTOS EN SALUD MUNICIPAL,4221,BPVGS - Presupuesto Vigente Gastos Salud,4221 - BPVGS - Presupuesto Vigente Gastos Salud
+E. RED ASISTENCIAL SALUD,4178,MAMBUL - Número de Ambulancias,4178 - MAMBUL - Número de Ambulancias
+E. RED ASISTENCIAL SALUD,4134,MCECOF - Número de CECOF en la comuna,4134 - MCECOF - Número de CECOF en la comuna
+E. RED ASISTENCIAL SALUD,4137,MCSR - Número de Centros de Salud Rurales en la comuna,4137 - MCSR - Número de Centros de Salud Rurales en la comuna
+E. RED ASISTENCIAL SALUD,4136,MCSU - Número de Centros de Salud Urbanos en la comuna,4136 - MCSU - Número de Centros de Salud Urbanos en la comuna
+E. RED ASISTENCIAL SALUD,4133,MCESFAM - Número de CESFAM en la comuna,4133 - MCESFAM - Número de CESFAM en la comuna
+E. RED ASISTENCIAL SALUD,4135,MDENTAL - Número de Clínicas Dental Móviles en la comuna,4135 - MDENTAL - Número de Clínicas Dental Móviles en la comuna
+E. RED ASISTENCIAL SALUD,616,MNCGR - Número de Consultorios General Rural (CGR),616 - MNCGR - Número de Consultorios General Rural (CGR)
+E. RED ASISTENCIAL SALUD,615,MNCGU - Número de Consultorios General Urbanos (CGU),615 - MNCGU - Número de Consultorios General Urbanos (CGU)
+E. RED ASISTENCIAL SALUD,1137,ISAL027 - Número de Consultorios (urbanos y rurales),1137 - ISAL027 - Número de Consultorios (urbanos y rurales)
+E. RED ASISTENCIAL SALUD,621,MCOSAM - Número de COSAM en la Comuna,621 - MCOSAM - Número de COSAM en la Comuna
+E. RED ASISTENCIAL SALUD,4522,MSFARM - Número de Farmacias Municipales en la Comuna,4522 - MSFARM - Número de Farmacias Municipales en la Comuna
+E. RED ASISTENCIAL SALUD,620,MLABC - Número de Laboratorios de Salud Comunal,620 - MLABC - Número de Laboratorios de Salud Comunal
+E. RED ASISTENCIAL SALUD,622,MOES - Número de Otros Establecimientos Municipales de Salud en la Comuna,622 - MOES - Número de Otros Establecimientos Municipales de Salud en la Comuna
+E. RED ASISTENCIAL SALUD,617,MNPR - Número de Postas de Salud Rural (PSR),617 - MNPR - Número de Postas de Salud Rural (PSR)
+E. RED ASISTENCIAL SALUD,4523,MSOPT - Número de Ópticas Municipales en la Comuna,4523 - MSOPT - Número de Ópticas Municipales en la Comuna
+E. RED ASISTENCIAL SALUD,619,MSAPU - Número de SAPU en la comuna.,619 - MSAPU - Número de SAPU en la comuna.
+E. RED ASISTENCIAL SALUD,4138,MVACU - Número de Vacunatorios en la comuna,4138 - MVACU - Número de Vacunatorios en la comuna
+F. RECURSOS HUMANOS EN SALUD,4420,ISAL031 - Gasto en Personal a Contrata Sector Salud,4420 - ISAL031 - Gasto en Personal a Contrata Sector Salud
+F. RECURSOS HUMANOS EN SALUD,4423,ISAL032 - Gasto en Personal a Honorarios Sector Salud (Subtítulo 21.03),4423 - ISAL032 - Gasto en Personal a Honorarios Sector Salud (Subtítulo 21.03)
+F. RECURSOS HUMANOS EN SALUD,4419,ISAL032.1 - Gasto en Personal a Honorarios Suma Alzada y Asimilados a Grado Sector Salud (sólo 21.03.001 y 21.03.002),4419 - ISAL032.1 - Gasto en Personal a Honorarios Suma Alzada y Asimilados a Grado Sector Salud (sólo 21.03.001 y 21.03.002)
+F. RECURSOS HUMANOS EN SALUD,4417,ISAL029 - Gasto en Personal de Planta Sector Salud,4417 - ISAL029 - Gasto en Personal de Planta Sector Salud
+F. RECURSOS HUMANOS EN SALUD,4416,ISAL019.1 - Gasto Total en Personal del Sector Salud (Subtitulo 21),4416 - ISAL019.1 - Gasto Total en Personal del Sector Salud (Subtitulo 21)
+F. RECURSOS HUMANOS EN SALUD,699,MTFCE - Número Total de Enfermeras Contratadas al 31 de Diciembre,699 - MTFCE - Número Total de Enfermeras Contratadas al 31 de Diciembre
+F. RECURSOS HUMANOS EN SALUD,4530,MTFFOND - Número Total de Fonoaudiólogos Contratados al 31 de diciembre,4530 - MTFFOND - Número Total de Fonoaudiólogos Contratados al 31 de diciembre
+F. RECURSOS HUMANOS EN SALUD,4533,MTFGER - Número Total de Geriatras Contratados al 31 de diciembre,4533 - MTFGER - Número Total de Geriatras Contratados al 31 de diciembre
+F. RECURSOS HUMANOS EN SALUD,4528,MTFKINE - Número Total de Kinesiólogos Contratados al 31 de diciembre,4528 - MTFKINE - Número Total de Kinesiólogos Contratados al 31 de diciembre
+F. RECURSOS HUMANOS EN SALUD,4525,MTFMATRO - Número Total de Matronas Contratadas al 31 de diciembre,4525 - MTFMATRO - Número Total de Matronas Contratadas al 31 de diciembre
+F. RECURSOS HUMANOS EN SALUD,491,MTFCM - Número Total de Médicos Contratados al 31 de Diciembre,491 - MTFCM - Número Total de Médicos Contratados al 31 de Diciembre
+F. RECURSOS HUMANOS EN SALUD,4526,MTFNUTRI - Número Total de Nutricionistas Contratados al 31 de diciembre,4526 - MTFNUTRI - Número Total de Nutricionistas Contratados al 31 de diciembre
+F. RECURSOS HUMANOS EN SALUD,4524,MTFODON - Número Total de Odontólogos Contratados al 31 de diciembre,4524 - MTFODON - Número Total de Odontólogos Contratados al 31 de diciembre
+F. RECURSOS HUMANOS EN SALUD,4531,MTFPSICO - Número Total de Psicólogos Contratados al 31 de diciembre,4531 - MTFPSICO - Número Total de Psicólogos Contratados al 31 de diciembre
+F. RECURSOS HUMANOS EN SALUD,4532,MTFPSIQ - Número Total de Psiquiatras Contratados al 31 de diciembre,4532 - MTFPSIQ - Número Total de Psiquiatras Contratados al 31 de diciembre
+F. RECURSOS HUMANOS EN SALUD,4527,MTFTECENF - Número Total de Técnicos en Enfermería  Contratados al 31 de diciembre,4527 - MTFTECENF - Número Total de Técnicos en Enfermería  Contratados al 31 de diciembre
+F. RECURSOS HUMANOS EN SALUD,4529,MTFTECMED - Número Total de Tecnólogos Médicos Contratados al 31 de diciembre,4529 - MTFTECMED - Número Total de Tecnólogos Médicos Contratados al 31 de diciembre
+F. RECURSOS HUMANOS EN SALUD,3736,MPSCC - N° Personal a Contrata Sector Salud,3736 - MPSCC - N° Personal a Contrata Sector Salud
+F. RECURSOS HUMANOS EN SALUD,3737,MPSH - N° Personal a Honorarios Sector Salud,3737 - MPSH - N° Personal a Honorarios Sector Salud
+F. RECURSOS HUMANOS EN SALUD,4176,MPSCDT - N° Personal Código del Trabajo Sector Salud,4176 - MPSCDT - N° Personal Código del Trabajo Sector Salud
+F. RECURSOS HUMANOS EN SALUD,3738,MPSP - N° Personal de Planta Sector Salud,3738 - MPSP - N° Personal de Planta Sector Salud
+F. RECURSOS HUMANOS EN SALUD,4177,MPSOC - N° Personal por Otro tipo de contrato (Honorarios a Programas y Otros) sector Salud,4177 - MPSOC - N° Personal por Otro tipo de contrato (Honorarios a Programas y Otros) sector Salud
+F. RECURSOS HUMANOS EN SALUD,724,"MTFCOTR - Total de Otros Profesionales de Salud Contratados al 31 de Diciembre (Odontólogos, Matronas, Nutricionistas, Asistentes social, Kinesiólogos, Psicólogos, Tecnólogos Médicos)","724 - MTFCOTR - Total de Otros Profesionales de Salud Contratados al 31 de Diciembre (Odontólogos, Matronas, Nutricionistas, Asistentes social, Kinesiólogos, Psicólogos, Tecnólogos Médicos)"
+A. INFORMACION ENCUESTA CASEN,744,ISOC001 - Indice de Pobreza CASEN (Última Encuesta Vigente),744 - ISOC001 - Indice de Pobreza CASEN (Última Encuesta Vigente)
+B. RED SOCIAL (SUBSIDIOS Y PENSIONES),4149,NPBSVM - Monto Pagado por Pensión Básica de Vejez (PBSV) en el año,4149 - NPBSVM - Monto Pagado por Pensión Básica de Vejez (PBSV) en el año
+B. RED SOCIAL (SUBSIDIOS Y PENSIONES),4147,NPBS1 - Monto Pagado por Pensión Básica Solidaria (PBS) en el año,4147 - NPBS1 - Monto Pagado por Pensión Básica Solidaria (PBS) en el año
+B. RED SOCIAL (SUBSIDIOS Y PENSIONES),4148,NPBSIM - Monto Pagado por Pensión de Invalidez (PBSI) en el año,4148 - NPBSIM - Monto Pagado por Pensión de Invalidez (PBSI) en el año
+B. RED SOCIAL (SUBSIDIOS Y PENSIONES),4322,MSELECT - Número de Beneficiarios de Subsidio Eléctrico en la comuna durante el año,4322 - MSELECT - Número de Beneficiarios de Subsidio Eléctrico en la comuna durante el año
+B. RED SOCIAL (SUBSIDIOS Y PENSIONES),3901,NPBSIA - Pensiones Básicas Solidarias de Invalidez (PBSI) Pagadas a la comuna,3901 - NPBSIA - Pensiones Básicas Solidarias de Invalidez (PBSI) Pagadas a la comuna
+B. RED SOCIAL (SUBSIDIOS Y PENSIONES),3899,NPBSVA - Pensiones Básicas Solidarias de Vejez (PBSV) Pagadas a la comuna,3899 - NPBSVA - Pensiones Básicas Solidarias de Vejez (PBSV) Pagadas a la comuna
+B. RED SOCIAL (SUBSIDIOS Y PENSIONES),4146,NPBS - Pensiones Básicas Solidarias (PBS) Pagadas a la comuna,4146 - NPBS - Pensiones Básicas Solidarias (PBS) Pagadas a la comuna
+B. RED SOCIAL (SUBSIDIOS Y PENSIONES),591,MSAOR - Subsidios de Agua Potable (SAP) Otorgados por la comuna a Zonas Rurales,591 - MSAOR - Subsidios de Agua Potable (SAP) Otorgados por la comuna a Zonas Rurales
+B. RED SOCIAL (SUBSIDIOS Y PENSIONES),626,MSAOU - Subsidios de Agua Potable (SAP) Otorgados por la comuna a Zonas Urbanas,626 - MSAOU - Subsidios de Agua Potable (SAP) Otorgados por la comuna a Zonas Urbanas
+B. RED SOCIAL (SUBSIDIOS Y PENSIONES),486,MSUFO - Subsidios Familiares (SUF) Otorgados en la comuna,486 - MSUFO - Subsidios Familiares (SUF) Otorgados en la comuna
+C. INTERMEDIACION LABORAL,481,MNPEE - Personas Enviadas a un Empleo,481 - MNPEE - Personas Enviadas a un Empleo
+C. INTERMEDIACION LABORAL,480,MPIE - Personas Inscritas en la Municipalidad en Busca de Empleo,480 - MPIE - Personas Inscritas en la Municipalidad en Busca de Empleo
+C. INTERMEDIACION LABORAL,482,MPIC - Personas Inscritas en la Municipalidad para Capacitación,482 - MPIC - Personas Inscritas en la Municipalidad para Capacitación
+C. INTERMEDIACION LABORAL,627,MPEC - Personas que Efectivamente Egresan de Cursos de Capacitación Laboral,627 - MPEC - Personas que Efectivamente Egresan de Cursos de Capacitación Laboral
+C. INTERMEDIACION LABORAL,807,ISOC012 - Tasa Logros de Egresos de Capacitación,807 - ISOC012 - Tasa Logros de Egresos de Capacitación
+D. ORGANIZACIONES COMUNITARIAS,4181,MCCULT - N° de Centros Culturales,4181 - MCCULT - N° de Centros Culturales
+D. ORGANIZACIONES COMUNITARIAS,720,MCMO - Nº de Centros de Madres,720 - MCMO - Nº de Centros de Madres
+D. ORGANIZACIONES COMUNITARIAS,675,MCPAO - Nº de Centros de Padres y Apoderados,675 - MCPAO - Nº de Centros de Padres y Apoderados
+D. ORGANIZACIONES COMUNITARIAS,719,MCOAM - Nº de Centros u Organizaciones del Adulto Mayor,719 - MCOAM - Nº de Centros u Organizaciones del Adulto Mayor
+D. ORGANIZACIONES COMUNITARIAS,674,MCDO - N° de Clubes Deportivos,674 - MCDO - N° de Clubes Deportivos
+D. ORGANIZACIONES COMUNITARIAS,4180,MCBOMB - N° de Compañías de Bomberos,4180 - MCBOMB - N° de Compañías de Bomberos
+D. ORGANIZACIONES COMUNITARIAS,708,MJVNO - Nº de Juntas de Vecinos,708 - MJVNO - Nº de Juntas de Vecinos
+D. ORGANIZACIONES COMUNITARIAS,721,MOOCF - Nº de Otras Organizaciones Comunitarias Funcionales (otros),721 - MOOCF - Nº de Otras Organizaciones Comunitarias Funcionales (otros)
+D. ORGANIZACIONES COMUNITARIAS,661,MUCNO - Nº de Uniones Comunales,661 - MUCNO - Nº de Uniones Comunales
+D. ORGANIZACIONES COMUNITARIAS,4182,ISOC013 - Número de Organizaciones Comunitarias (suma total),4182 - ISOC013 - Número de Organizaciones Comunitarias (suma total)
+E. BECAS,660,MBIEB - Becas Indígenas Enseñanza Básica,660 - MBIEB - Becas Indígenas Enseñanza Básica
+E. BECAS,707,MBIEM - Becas Indígenas Enseñanza Media,707 - MBIEM - Becas Indígenas Enseñanza Media
+E. BECAS,557,MTSBP - Becas Presidente de la República a Enseñanza Media Asignadas a la Comuna,557 - MTSBP - Becas Presidente de la República a Enseñanza Media Asignadas a la Comuna
+F. PARTICIPACIÓN CIUDADANA,4328,MOCOSOC - Existe alguna ordenanza de participación ciudadana? (desde año 2016),4328 - MOCOSOC - Existe alguna ordenanza de participación ciudadana? (desde año 2016)
+F. PARTICIPACIÓN CIUDADANA,4327,MCOSOC - Se encuentra constituido el Consejo Comunal de Organizaciones de la Sociedad Civil (COSOC) en su municipio? (desde año 2016),4327 - MCOSOC - Se encuentra constituido el Consejo Comunal de Organizaciones de la Sociedad Civil (COSOC) en su municipio? (desde año 2016)
+G. DISCAPACIDAD,4329,MDISCAP - Existe en el organigrama municipal una unidad específica a cargo del tema de discapacidad? (desde año 2016),4329 - MDISCAP - Existe en el organigrama municipal una unidad específica a cargo del tema de discapacidad? (desde año 2016)
+G. DISCAPACIDAD,4330,MIDISCAP - Existe información estadística de personas con discapacidad en su comuna? (desde año 2016),4330 - MIDISCAP - Existe información estadística de personas con discapacidad en su comuna? (desde año 2016)
+H. PREVENCIÓN DEL DELITO Y SEGURIDAD,4676,MNSEGCIURR - El Municipio tiene un Plan Comunal para la Reducción del Riesgo de Desastres Ley 21.364. (SI-NO),4676 - MNSEGCIURR - El Municipio tiene un Plan Comunal para la Reducción del Riesgo de Desastres Ley 21.364. (SI-NO)
+H. PREVENCIÓN DEL DELITO Y SEGURIDAD,4338,MNSEGCIUC - Número de casetas de seguridad en la comuna (desde el año 2016),4338 - MNSEGCIUC - Número de casetas de seguridad en la comuna (desde el año 2016)
+H. PREVENCIÓN DEL DELITO Y SEGURIDAD,4337,MNSEGCIUCA - Número de cámaras de vigilancia en la comuna (desde año 2016),4337 - MNSEGCIUCA - Número de cámaras de vigilancia en la comuna (desde año 2016)
+H. PREVENCIÓN DEL DELITO Y SEGURIDAD,4670,MNSEGCIUD - Número de Drones para seguridad,4670 - MNSEGCIUD - Número de Drones para seguridad
+H. PREVENCIÓN DEL DELITO Y SEGURIDAD,4336,"MNSEGCIUIN - Número de guardias, inspectores o vigilantes municipales (desde año 2016)","4336 - MNSEGCIUIN - Número de guardias, inspectores o vigilantes municipales (desde año 2016)"
+H. PREVENCIÓN DEL DELITO Y SEGURIDAD,4334,"MNSEGCIU - Número de recursos que componen el área de Seguridad de su Municipio, en este caso, Número de profesionales pagados por el municipio (desde año 2016)","4334 - MNSEGCIU - Número de recursos que componen el área de Seguridad de su Municipio, en este caso, Número de profesionales pagados por el municipio (desde año 2016)"
+H. PREVENCIÓN DEL DELITO Y SEGURIDAD,4671,MNSEGCIUAU - Números de automóviles de seguridad municipal o patrullaje.,4671 - MNSEGCIUAU - Números de automóviles de seguridad municipal o patrullaje.
+H. PREVENCIÓN DEL DELITO Y SEGURIDAD,4674,MNSEGCIUBI - Números de bicicletas de seguridad municipal o patrullaje,4674 - MNSEGCIUBI - Números de bicicletas de seguridad municipal o patrullaje
+H. PREVENCIÓN DEL DELITO Y SEGURIDAD,4672,MNSEGCIUCM - Números de camionetas de seguridad municipal o patrullaje,4672 - MNSEGCIUCM - Números de camionetas de seguridad municipal o patrullaje
+H. PREVENCIÓN DEL DELITO Y SEGURIDAD,4673,MNSEGCIUMO - Números de motos de seguridad municipal o patrullaje.,4673 - MNSEGCIUMO - Números de motos de seguridad municipal o patrullaje.
+H. PREVENCIÓN DEL DELITO Y SEGURIDAD,4675,MNSEGCIUCC - ¿Su Municipio cuenta con un Consejo Comunal de Seguridad Ley 20.965 (SI-NO),4675 - MNSEGCIUCC - ¿Su Municipio cuenta con un Consejo Comunal de Seguridad Ley 20.965 (SI-NO)
+H. PREVENCIÓN DEL DELITO Y SEGURIDAD,4333,MSEGCIU - Su Municipio tiene un área dedicada especialmente a la Seguridad Ciudadana? (desde año 2016),4333 - MSEGCIU - Su Municipio tiene un área dedicada especialmente a la Seguridad Ciudadana? (desde año 2016)
+L. RSH - ANTECEDENTES GENERALES,4557,RSHNHENC - Número Total de Hogares Encuestados en el Registro Social de Hogares (RSH),4557 - RSHNHENC - Número Total de Hogares Encuestados en el Registro Social de Hogares (RSH)
+L. RSH - ANTECEDENTES GENERALES,4562,RSHNPDEPEN - Número Total de Personas con Dependencia inscritas en el Registro Social de Hogares.,4562 - RSHNPDEPEN - Número Total de Personas con Dependencia inscritas en el Registro Social de Hogares.
+L. RSH - ANTECEDENTES GENERALES,4561,RSHNPDISCA - Número Total de Personas con Discapacidad registradas en el Registro Social de Hogares.,4561 - RSHNPDISCA - Número Total de Personas con Discapacidad registradas en el Registro Social de Hogares.
+L. RSH - ANTECEDENTES GENERALES,4560,RSHPMA60 - Número Total de Personas de 60 años o más inscritas en el Registro Social de Hogares.,4560 - RSHPMA60 - Número Total de Personas de 60 años o más inscritas en el Registro Social de Hogares.
+L. RSH - ANTECEDENTES GENERALES,4558,RSHNP - Número Total de Personas inscritas en el Registro Social de Hogares (RSH),4558 - RSHNP - Número Total de Personas inscritas en el Registro Social de Hogares (RSH)
+L. RSH - ANTECEDENTES GENERALES,4559,RSHPME18 - Número Total de Personas Menores de 18 años inscritas en el Registro Social de Hogares.,4559 - RSHPME18 - Número Total de Personas Menores de 18 años inscritas en el Registro Social de Hogares.
+N.RSH - NIVEL INGRESOS - VULNERABILIDAD,4563,RSHNH40 - Número de Hogares de 0-40% de Ingresos (RSH),4563 - RSHNH40 - Número de Hogares de 0-40% de Ingresos (RSH)
+N.RSH - NIVEL INGRESOS - VULNERABILIDAD,4565,RSHNH50 - Número de Hogares de 41-50% de Ingresos (RSH),4565 - RSHNH50 - Número de Hogares de 41-50% de Ingresos (RSH)
+N.RSH - NIVEL INGRESOS - VULNERABILIDAD,4567,RSHNH60 - Número de Hogares de 51-60 % de Ingresos (RSH),4567 - RSHNH60 - Número de Hogares de 51-60 % de Ingresos (RSH)
+N.RSH - NIVEL INGRESOS - VULNERABILIDAD,4569,RSHNH70 - Número de Hogares de 61-70% de Ingresos (RSH),4569 - RSHNH70 - Número de Hogares de 61-70% de Ingresos (RSH)
+N.RSH - NIVEL INGRESOS - VULNERABILIDAD,4571,RSHNH80 - Número de Hogares de 71-80% de Ingresos (RSH),4571 - RSHNH80 - Número de Hogares de 71-80% de Ingresos (RSH)
+N.RSH - NIVEL INGRESOS - VULNERABILIDAD,4573,RSHNH90 - Número de Hogares de 81-90% de Ingresos (RSH),4573 - RSHNH90 - Número de Hogares de 81-90% de Ingresos (RSH)
+N.RSH - NIVEL INGRESOS - VULNERABILIDAD,4575,RSHNH100 - Número de Hogares de 91-100% de Ingresos (RSH),4575 - RSHNH100 - Número de Hogares de 91-100% de Ingresos (RSH)
+N.RSH - NIVEL INGRESOS - VULNERABILIDAD,4624,RSHPORH40i - Porcentaje de Hogares de 0-40% de Ingresos respecto del Total Regional (RSH),4624 - RSHPORH40i - Porcentaje de Hogares de 0-40% de Ingresos respecto del Total Regional (RSH)
+N.RSH - NIVEL INGRESOS - VULNERABILIDAD,4625,RSHPORH50i - Porcentaje de Hogares de 41-50% de Ingresos respecto del Total Regional (RSH),4625 - RSHPORH50i - Porcentaje de Hogares de 41-50% de Ingresos respecto del Total Regional (RSH)
+N.RSH - NIVEL INGRESOS - VULNERABILIDAD,4626,RSHPORH60i - Porcentaje de Hogares de 51-60% de Ingresos respecto del Total Regional (RSH),4626 - RSHPORH60i - Porcentaje de Hogares de 51-60% de Ingresos respecto del Total Regional (RSH)
+N.RSH - NIVEL INGRESOS - VULNERABILIDAD,4627,RSHPORH70i - Porcentaje de Hogares de 61-70% de Ingresos respecto del Total Regional (RSH),4627 - RSHPORH70i - Porcentaje de Hogares de 61-70% de Ingresos respecto del Total Regional (RSH)
+N.RSH - NIVEL INGRESOS - VULNERABILIDAD,4628,RSHPORH80i - Porcentaje de Hogares de 71-80% de Ingresos respecto del Total Regional (RSH),4628 - RSHPORH80i - Porcentaje de Hogares de 71-80% de Ingresos respecto del Total Regional (RSH)
+N.RSH - NIVEL INGRESOS - VULNERABILIDAD,4629,RSHPORH90i - Porcentaje de Hogares de 81-90% de Ingresos respecto del Total Regional (RSH),4629 - RSHPORH90i - Porcentaje de Hogares de 81-90% de Ingresos respecto del Total Regional (RSH)
+N.RSH - NIVEL INGRESOS - VULNERABILIDAD,4630,RSHPOR100i - Porcentaje de Hogares de 91-100% de Ingresos respecto del Total Regional (RSH),4630 - RSHPOR100i - Porcentaje de Hogares de 91-100% de Ingresos respecto del Total Regional (RSH)
+O.RSH - CARACTERISTICAS ENCUESTADOS,4579,RSHNMAEDSU - Número de Matrículas de Educación Superior respecto de Jóvenes presentes en el RSH - Total de Jóvenes de 18 a 24 años (RSH),4579 - RSHNMAEDSU - Número de Matrículas de Educación Superior respecto de Jóvenes presentes en el RSH - Total de Jóvenes de 18 a 24 años (RSH)
+O.RSH - CARACTERISTICAS ENCUESTADOS,4578,RSHNFONASA - Número Total de Beneficiarios según Plan de Salud FONASA (RSH),4578 - RSHNFONASA - Número Total de Beneficiarios según Plan de Salud FONASA (RSH)
+O.RSH - CARACTERISTICAS ENCUESTADOS,4577,RSHNISAPRE - Número Total de Beneficiarios según Plan de Salud ISAPRE (RSH),4577 - RSHNISAPRE - Número Total de Beneficiarios según Plan de Salud ISAPRE (RSH)
+RETIROS 10%,4591,RETIRO10M1 - Monto Total (M$) por el Primer Retiro del 10% de los Fondos de Pensiones,4591 - RETIRO10M1 - Monto Total (M$) por el Primer Retiro del 10% de los Fondos de Pensiones
+RETIROS 10%,4593,RETIRO10M2 - Monto Total (M$) por el Segundo Retiro del 10% de los Fondos de Pensiones,4593 - RETIRO10M2 - Monto Total (M$) por el Segundo Retiro del 10% de los Fondos de Pensiones
+RETIROS 10%,4595,RETIRO10M3 - Monto Total (M$) por el Tercer Retiro del 10% de los Fondos de Pensiones,4595 - RETIRO10M3 - Monto Total (M$) por el Tercer Retiro del 10% de los Fondos de Pensiones
+RETIROS 10%,4590,RETIRO10N1 - Número de Personas que realizaron Primer Retiro del 10% de sus Fondos de Pensiones,4590 - RETIRO10N1 - Número de Personas que realizaron Primer Retiro del 10% de sus Fondos de Pensiones
+RETIROS 10%,4592,RETIRO10N2 - Número de Personas que realizaron Segundo Retiro del 10% de sus Fondos de Pensiones,4592 - RETIRO10N2 - Número de Personas que realizaron Segundo Retiro del 10% de sus Fondos de Pensiones
+RETIROS 10%,4594,RETIRO10N3 - Número de Personas que realizaron Tercer Retiro del 10% de sus Fondos de Pensiones,4594 - RETIRO10N3 - Número de Personas que realizaron Tercer Retiro del 10% de sus Fondos de Pensiones
+A. CARACTERISTICAS TERRITORIALES,745,ITER001 - Superficie Total Comunal en Km2,745 - ITER001 - Superficie Total Comunal en Km2
+B. SERVICIOS BASICOS A LA COMUNIDAD,759,ITER009 - Metros Cuadrados (M2) de Areas Verdes con Mantenimiento por Habitante,759 - ITER009 - Metros Cuadrados (M2) de Areas Verdes con Mantenimiento por Habitante
+B. SERVICIOS BASICOS A LA COMUNIDAD,3924,ITER008 - Servicios de Mantención de Jardines (desde 2009),3924 - ITER008 - Servicios de Mantención de Jardines (desde 2009)
+B. SERVICIOS BASICOS A LA COMUNIDAD,512,MAVM - Superficie en M2 de Areas Verdes con Mantenimiento,512 - MAVM - Superficie en M2 de Areas Verdes con Mantenimiento
+B. SERVICIOS BASICOS A LA COMUNIDAD,509,"IVAP - Viviendas con Conexión a Red de Agua Potable, según Ultimo Censo","509 - IVAP - Viviendas con Conexión a Red de Agua Potable, según Ultimo Censo"
+B. SERVICIOS BASICOS A LA COMUNIDAD,510,"IVC - Viviendas de la Comuna, según el Ultimo Censo","510 - IVC - Viviendas de la Comuna, según el Ultimo Censo"
+C. INFRAESTRUCTURA,4187,MNPDEE - Nº de Permisos de Edificación Entregados,4187 - MNPDEE - Nº de Permisos de Edificación Entregados
+C. INFRAESTRUCTURA,505,MCRD - Número de Construcciones con Recepción Definitiva durante el Año,505 - MCRD - Número de Construcciones con Recepción Definitiva durante el Año
+C. INFRAESTRUCTURA,754,"ITER010 - Porcentaje Estimado de Construcciones con Recepción Definitiva sobre el Total de Roles de Predios, Informado por el SII","754 - ITER010 - Porcentaje Estimado de Construcciones con Recepción Definitiva sobre el Total de Roles de Predios, Informado por el SII"
+D. CATASTRO PREDIOS Y VALORACION CATASTRAL,1325,ITER012 - Avalúo Fiscal de las Propiedades de Dominio Municipal (Municipales y Corporaciones),1325 - ITER012 - Avalúo Fiscal de las Propiedades de Dominio Municipal (Municipales y Corporaciones)
+D. CATASTRO PREDIOS Y VALORACION CATASTRAL,4035,YPROCORPAV - Avalúo Fiscal de Propiedades de Corporaciones Municipales,4035 - YPROCORPAV - Avalúo Fiscal de Propiedades de Corporaciones Municipales
+D. CATASTRO PREDIOS Y VALORACION CATASTRAL,4033,YPROMUAV - Avalúo Fiscal de Propiedades de Municipalidades,4033 - YPROMUAV - Avalúo Fiscal de Propiedades de Municipalidades
+D. CATASTRO PREDIOS Y VALORACION CATASTRAL,4010,ITER21 - Porcentaje de Predios Exentos respecto al Total de Predios,4010 - ITER21 - Porcentaje de Predios Exentos respecto al Total de Predios
+D. CATASTRO PREDIOS Y VALORACION CATASTRAL,3789,ITER015 - Porcentaje de Predios No Agrícolas Habitacionales Afectos (desde 2008),3789 - ITER015 - Porcentaje de Predios No Agrícolas Habitacionales Afectos (desde 2008)
+D. CATASTRO PREDIOS Y VALORACION CATASTRAL,1277,YROLPAE - Predios Agrícolas Exentos,1277 - YROLPAE - Predios Agrícolas Exentos
+D. CATASTRO PREDIOS Y VALORACION CATASTRAL,1283,ITER013 - Predios Agrícolas (indicador disponible a partir de 2006),1283 - ITER013 - Predios Agrícolas (indicador disponible a partir de 2006)
+D. CATASTRO PREDIOS Y VALORACION CATASTRAL,1279,YROLPNAE - Predios NO Agrícolas Exentos,1279 - YROLPNAE - Predios NO Agrícolas Exentos
+D. CATASTRO PREDIOS Y VALORACION CATASTRAL,1280,YROLPNAH - Predios No Agrícolas Habitacionales,1280 - YROLPNAH - Predios No Agrícolas Habitacionales
+D. CATASTRO PREDIOS Y VALORACION CATASTRAL,3788,YROLPNHA - Predios No Agrícolas Habitacionales Afectos,3788 - YROLPNHA - Predios No Agrícolas Habitacionales Afectos
+D. CATASTRO PREDIOS Y VALORACION CATASTRAL,1284,ITER014 - Predios No Agrícolas (indicador disponible a partir de 2006),1284 - ITER014 - Predios No Agrícolas (indicador disponible a partir de 2006)
+D. CATASTRO PREDIOS Y VALORACION CATASTRAL,1281,YROLPNANH - Predios No Agrícolas No Habitacionales,1281 - YROLPNANH - Predios No Agrícolas No Habitacionales
+D. CATASTRO PREDIOS Y VALORACION CATASTRAL,4034,YPROCORP - Propiedades de Corporaciones Municipales,4034 - YPROCORP - Propiedades de Corporaciones Municipales
+D. CATASTRO PREDIOS Y VALORACION CATASTRAL,1282,ITER011 - Propiedades de Dominio Municipal (Municipales y Corporaciones),1282 - ITER011 - Propiedades de Dominio Municipal (Municipales y Corporaciones)
+D. CATASTRO PREDIOS Y VALORACION CATASTRAL,4032,YPROMU - Propiedades de Municipalidades,4032 - YPROMU - Propiedades de Municipalidades
+D. CATASTRO PREDIOS Y VALORACION CATASTRAL,508,YROLSII - Rol de Predios (cantidad) Informado por el Servicio de Impuestos Internos (SII),508 - YROLSII - Rol de Predios (cantidad) Informado por el Servicio de Impuestos Internos (SII)
+E. AREAS VERDES ,4038,MPQC - Número de Parques Urbanos en la Comuna (a contar del 2010),4038 - MPQC - Número de Parques Urbanos en la Comuna (a contar del 2010)
+E. AREAS VERDES ,4036,MPZC - Número de Plazas en la Comuna (a contar del 2010),4036 - MPZC - Número de Plazas en la Comuna (a contar del 2010)
+E. AREAS VERDES ,4039,MMPQC - Superficie Total (m2) de Parques Urbanos Existentes en la Comuna (a contar del 2010),4039 - MMPQC - Superficie Total (m2) de Parques Urbanos Existentes en la Comuna (a contar del 2010)
+E. AREAS VERDES ,4037,MMPZC - Superficie Total (m2) de Plazas Existentes en la Comuna (a contar del 2010),4037 - MMPZC - Superficie Total (m2) de Plazas Existentes en la Comuna (a contar del 2010)
+F. PLAN DE DESARROLLO COMUNAL (PLADECO),1336,MPLADAN - ¿Cuál es el año de formulación o actualización del último PLADECO?,1336 - MPLADAN - ¿Cuál es el año de formulación o actualización del último PLADECO?
+F. PLAN DE DESARROLLO COMUNAL (PLADECO),1335,MPLADECO - ¿Su municipio posee Plan de Desarrollo Comunal (PLADECO)?,1335 - MPLADECO - ¿Su municipio posee Plan de Desarrollo Comunal (PLADECO)?
+G. PLAN REGULADOR COMUNAL,1340,ITER017 - Año de Aprobación Legal del Plan Regulador Comunal Vigente (Aprobado por MINVU),1340 - ITER017 - Año de Aprobación Legal del Plan Regulador Comunal Vigente (Aprobado por MINVU)
+G. PLAN REGULADOR COMUNAL,1323,MAEPR - Existencia de un Plan Regulador Comunal Vigente,1323 - MAEPR - Existencia de un Plan Regulador Comunal Vigente
+G. PLAN REGULADOR COMUNAL,760,ITER018 - Número de Seccionales Aprobados Posteriormente al Plan Regulador Vigente,760 - ITER018 - Número de Seccionales Aprobados Posteriormente al Plan Regulador Vigente
+H. CULTURA,4715,CULTPLADEC - El Plan de Desarrollo Comunal (PLADECO) cuenta con un apartado dedicado a la Cultura  (Si / No),4715 - CULTPLADEC - El Plan de Desarrollo Comunal (PLADECO) cuenta con un apartado dedicado a la Cultura  (Si / No)
+H. CULTURA,4714,CULTPLAN - Existe un Plan Cultural Municipal Vigente en la comuna (Si / No),4714 - CULTPLAN - Existe un Plan Cultural Municipal Vigente en la comuna (Si / No)
+H. CULTURA,4717,"CULTWEB - La página web municipal, tiene un calendario o publicidad en la que difundan las actividades culturales (Si / No)","4717 - CULTWEB - La página web municipal, tiene un calendario o publicidad en la que difundan las actividades culturales (Si / No)"
+H. CULTURA,4716,CULTPERSO - N° de Personas Contratadas para labores de Gestión Cultural Municipal,4716 - CULTPERSO - N° de Personas Contratadas para labores de Gestión Cultural Municipal
+H. CULTURA,4713,CULTADM -  Tipo o de quien depende la administración Cultural en el Municipio.,4713 - CULTADM -  Tipo o de quien depende la administración Cultural en el Municipio.
+A. GEOGRAFICO ADMINISTRATIVA,824,ICAR003 - Distancia con Respecto a la Capital Regional,824 - ICAR003 - Distancia con Respecto a la Capital Regional
+A. GEOGRAFICO ADMINISTRATIVA,823,ICAR002 - Provincia a la que Pertenece la Comuna,823 - ICAR002 - Provincia a la que Pertenece la Comuna
+A. GEOGRAFICO ADMINISTRATIVA,818,ICAR001 - Región a la que Pertenece la Comuna,818 - ICAR001 - Región a la que Pertenece la Comuna
+B. POBLACION,827,ICAR007 - Densidad de Población por Km2,827 - ICAR007 - Densidad de Población por Km2
+B. POBLACION,4613,ITVC - Número Total de Viviendas en la Comuna,4613 - ITVC - Número Total de Viviendas en la Comuna
+B. POBLACION,579,ITPCMX - Población Comunal de 10 Años y Más,579 - ITPCMX - Población Comunal de 10 Años y Más
+B. POBLACION,566,ITPCM - Población Comunal de 18 Años y Más,566 - ITPCM - Población Comunal de 18 Años y Más
+B. POBLACION,578,ITPCM6 - Población Comunal de 6 Años y Más,578 - ITPCM6 - Población Comunal de 6 Años y Más
+B. POBLACION,571,ITPC - Población Comunal Estimada para el Año (por el INE),571 - ITPC - Población Comunal Estimada para el Año (por el INE)
+B. POBLACION,826,"ICAR004 - Población Comunal, Estimada por el INE","826 - ICAR004 - Población Comunal, Estimada por el INE"
+B. POBLACION,631,ITPCF - Población Femenina Estimada para el Año (por el INE),631 - ITPCF - Población Femenina Estimada para el Año (por el INE)
+B. POBLACION,600,ITPCMA - Población Masculina Estimada para el Año (por el INE),600 - ITPCMA - Población Masculina Estimada para el Año (por el INE)
+B. POBLACION,573,ITPR - Población Rural,573 - ITPR - Población Rural
+B. POBLACION,574,ITPU - Población Urbana,574 - ITPU - Población Urbana
+B. POBLACION,859,ICAR005 - Porcentaje de Población Comunal Femenina,859 - ICAR005 - Porcentaje de Población Comunal Femenina
+B. POBLACION,857,ICAR006 - Porcentaje de Población Comunal Masculina,857 - ICAR006 - Porcentaje de Población Comunal Masculina
+B. POBLACION,835,ICAR008 - Porcentaje de Población Rural,835 - ICAR008 - Porcentaje de Población Rural
+B. POBLACION,839,ICAR015 - Tasa de Mortalidad Infantil,839 - ICAR015 - Tasa de Mortalidad Infantil
+B. POBLACION,838,ICAR014 - Tasa de Natalidad,838 - ICAR014 - Tasa de Natalidad
+DOTACION MUNICIPAL HOMBRES Y MUJERES,4072,IGEN006 - Mujeres pertenecientes a escalafón directivo y profesional (planta y contrata),4072 - IGEN006 - Mujeres pertenecientes a escalafón directivo y profesional (planta y contrata)
+DOTACION MUNICIPAL HOMBRES Y MUJERES,4718,"IMTPHPH -  Nº de hombres a honorarios, destinados a programas comunitarios con recursos propios y externos Subtítulo 21.04.004","4718 - IMTPHPH -  Nº de hombres a honorarios, destinados a programas comunitarios con recursos propios y externos Subtítulo 21.04.004"
+DOTACION MUNICIPAL HOMBRES Y MUJERES,657,MTPHH - Nº de hombres a honorarios (Subtítulo 21.03.000),657 - MTPHH - Nº de hombres a honorarios (Subtítulo 21.03.000)
+DOTACION MUNICIPAL HOMBRES Y MUJERES,1249,MHNPC - Nº de hombres no profesionales a contrata (sin título profesional),1249 - MHNPC - Nº de hombres no profesionales a contrata (sin título profesional)
+DOTACION MUNICIPAL HOMBRES Y MUJERES,1253,MHNPDP - Nº de hombres no profesionales de planta (sin título profesional),1253 - MHNPDP - Nº de hombres no profesionales de planta (sin título profesional)
+DOTACION MUNICIPAL HOMBRES Y MUJERES,1248,MHPC - Nº de hombres profesionales a contrata,1248 - MHPC - Nº de hombres profesionales a contrata
+DOTACION MUNICIPAL HOMBRES Y MUJERES,1251,MHPDP - Nº de hombres profesionales de planta,1251 - MHPDP - Nº de hombres profesionales de planta
+DOTACION MUNICIPAL HOMBRES Y MUJERES,4719,"IMTPHPM - Nº de mujeres a honorarios, destinadas a programas comunitarios con recursos propios y externos Subtítulo 21.04.004","4719 - IMTPHPM - Nº de mujeres a honorarios, destinadas a programas comunitarios con recursos propios y externos Subtítulo 21.04.004"
+DOTACION MUNICIPAL HOMBRES Y MUJERES,704,MTPHM - Nº de mujeres a honorarios (Subtítulo 21.03.000),704 - MTPHM - Nº de mujeres a honorarios (Subtítulo 21.03.000)
+DOTACION MUNICIPAL HOMBRES Y MUJERES,1247,MMNPC - Nº de mujeres no profesionales a contrata (sin título profesional),1247 - MMNPC - Nº de mujeres no profesionales a contrata (sin título profesional)
+DOTACION MUNICIPAL HOMBRES Y MUJERES,1252,MMNPDP - Nº de mujeres no profesionales de planta (sin título profesional),1252 - MMNPDP - Nº de mujeres no profesionales de planta (sin título profesional)
+DOTACION MUNICIPAL HOMBRES Y MUJERES,1246,MMPC - Nº de mujeres profesionales a contrata,1246 - MMPC - Nº de mujeres profesionales a contrata
+DOTACION MUNICIPAL HOMBRES Y MUJERES,1250,MMPDP - Nº de mujeres profesionales de planta,1250 - MMPDP - Nº de mujeres profesionales de planta
+DOTACION MUNICIPAL HOMBRES Y MUJERES,4064,IRH10 - Número de hombres a contrata,4064 - IRH10 - Número de hombres a contrata
+DOTACION MUNICIPAL HOMBRES Y MUJERES,4057,IRH03 - Número de hombres planta,4057 - IRH03 - Número de hombres planta
+DOTACION MUNICIPAL HOMBRES Y MUJERES,4065,IRH11 - Número de mujeres a contrata,4065 - IRH11 - Número de mujeres a contrata
+DOTACION MUNICIPAL HOMBRES Y MUJERES,4058,IRH04 - Número de mujeres planta,4058 - IRH04 - Número de mujeres planta
+DOTACION MUNICIPAL HOMBRES Y MUJERES,4622,IRH15=G - Número total de hombres y mujeres a honorarios (Subtítulo 215.21.03,4622 - IRH15=G - Número total de hombres y mujeres a honorarios (Subtítulo 215.21.03
+DOTACION MUNICIPAL HOMBRES Y MUJERES,4623,"IRH16=G - Número total de hombres y mujeres, destinado a programas comunitarios (Subtítulo 215.21.04.004)","4623 - IRH16=G - Número total de hombres y mujeres, destinado a programas comunitarios (Subtítulo 215.21.04.004)"
+DOTACION MUNICIPAL HOMBRES Y MUJERES,1259,IGEN003 - Porcentaje de mujeres en escalafón directivo sobre total de funcionarias municipales mujeres.,1259 - IGEN003 - Porcentaje de mujeres en escalafón directivo sobre total de funcionarias municipales mujeres.
+DOTACION MUNICIPAL HOMBRES Y MUJERES,1231,IGEN001 - Porcentaje de mujeres funcionarias municipales,1231 - IGEN001 - Porcentaje de mujeres funcionarias municipales
+DOTACION MUNICIPAL HOMBRES Y MUJERES,1232,IGEN002 - Porcentaje de mujeres profesionales sobre el total de funcionarias municipales Mujeres,1232 - IGEN002 - Porcentaje de mujeres profesionales sobre el total de funcionarias municipales Mujeres
+1. INFORMACION GENERAL,4406,MCEM - ¿La Municipalidad o Corporación administra Cementerio?,4406 - MCEM - ¿La Municipalidad o Corporación administra Cementerio?
+1. INFORMACION GENERAL,4407,"MCEM01 - Si la Municipalidad o Corporación administra Cementerio, indique si tiene presupuesto propio. SI = presupuesto propio o independiente.","4407 - MCEM01 - Si la Municipalidad o Corporación administra Cementerio, indique si tiene presupuesto propio. SI = presupuesto propio o independiente."
+A. INGRESOS CEMENTERIO (M$),4140,CEM01 - Ingresos Cementerio (Ingreso Total Percibido),4140 - CEM01 - Ingresos Cementerio (Ingreso Total Percibido)
+B. GASTOS CEMENTERIO (M$),4141,CEM02 - Gastos Cementerio (Gasto Total Devengado),4141 - CEM02 - Gastos Cementerio (Gasto Total Devengado)

@@ -1,11 +1,10 @@
-# =========================================================================
-# SIMULACIÓN CON SHIFT ESTRUCTURAL PERMANENTE (feedback irreparable)
-# =========================================================================
+library(purrr)
+library(plm)
 
 simular_celda <- function(nombre_esc, b_val, pi_val, rho_val, sd_ci_val,
                           shift_estructural = FALSE, n_sims = 200) {
   
-  N <- 336; T <- 11
+  N <- 345; T <- 11
   MEDIA_TA  <- 0.74; SD_TA_INIT <- 0.18
   MEDIA_LTP <- 1.58; SD_LTP_SH  <- 0.35
   SD_SHOCK  <- 0.12
@@ -32,12 +31,9 @@ simular_celda <- function(nombre_esc, b_val, pi_val, rho_val, sd_ci_val,
       for (t in 2:T) {
         
         if (shift_estructural) {
-          # ── FEEDBACK IRREPARABLE ────────────────────────────────────────
-          # Cada shock positivo de TP desplaza permanentemente el nivel
-          # base al que TA revierte — la "memoria institucional" del municipio
-          # queda marcada para siempre por su historia de TP
-          delta_ltp      <- ltp[t-1] - MEDIA_LTP          # desvío de TP respecto a media
-          nivel_base_i   <- nivel_base_i + pi_val * delta_ltp  # shift permanente
+
+          delta_ltp      <- ltp[t-1] - MEDIA_LTP      
+          nivel_base_i   <- nivel_base_i + pi_val * delta_ltp  
           nivel_base_i   <- pmin(pmax(nivel_base_i, 0.10), 0.95)
           
           ta_raw <- (1 - rho_val) * nivel_base_i +
@@ -45,7 +41,7 @@ simular_celda <- function(nombre_esc, b_val, pi_val, rho_val, sd_ci_val,
             rnorm(1, 0, SD_SHOCK)
           
         } else {
-          # ── FEEDBACK TRANSITORIO (escenarios anteriores) ───────────────
+
           ta_raw <- (1 - rho_val) * MEDIA_TA +
             rho_val       * ta[t-1] +
             pi_val        * (ltp[t-1] - MEDIA_LTP) * 0.05 +
@@ -91,13 +87,10 @@ simular_celda <- function(nombre_esc, b_val, pi_val, rho_val, sd_ci_val,
   )
 }
 
-# =========================================================================
-# ESCENARIOS: comparar CON y SIN shift estructural
-# =========================================================================
 set.seed(2025)
 
 escenarios <- list(
-  # ── Sin shift (feedback transitorio) ──────────────────────────────────
+
   list(esc="Base",                b=-0.10, pi=0.20, rho=0.163, sd_ci=0.10, shift=FALSE),
   list(esc="Base",                b=-0.25, pi=0.20, rho=0.163, sd_ci=0.10, shift=FALSE),
   list(esc="Persistencia Alta",   b=-0.10, pi=0.40, rho=0.400, sd_ci=0.10, shift=FALSE),
@@ -105,22 +98,16 @@ escenarios <- list(
   list(esc="Idiosincrasia Fuerte",b=-0.10, pi=0.20, rho=0.163, sd_ci=0.25, shift=FALSE),
   list(esc="Idiosincrasia Fuerte",b=-0.25, pi=0.20, rho=0.163, sd_ci=0.25, shift=FALSE),
   
-  # ── Con shift estructural permanente ──────────────────────────────────
   list(esc="Shift Estructural",   b=-0.10, pi=0.20, rho=0.163, sd_ci=0.10, shift=TRUE),
   list(esc="Shift Estructural",   b=-0.25, pi=0.20, rho=0.163, sd_ci=0.10, shift=TRUE),
   list(esc="Shift + Idiosincrasia",b=-0.10,pi=0.20, rho=0.163, sd_ci=0.25, shift=TRUE),
   list(esc="Shift + Idiosincrasia",b=-0.25,pi=0.20, rho=0.163, sd_ci=0.25, shift=TRUE)
 )
 
-cat("Iniciando simulaciones...\n")
-
 tabla_maestra <- map_dfr(escenarios, function(e) {
   simular_celda(e$esc, e$b, e$pi, e$rho, e$sd_ci, e$shift, n_sims = 200)
 })
 
-# =========================================================================
-# SESGOS
-# =========================================================================
 tabla_maestra <- tabla_maestra %>%
   mutate(
     Sesgo_FE  = round(((FE_Lag_Estimado  - Beta_Real) / Beta_Real) * 100, 1),
